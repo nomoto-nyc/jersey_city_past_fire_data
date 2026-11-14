@@ -1,0 +1,386 @@
+{
+  "schema_version": "1.0",
+  "title": "Mayor Steven Fulop 2023 State of the City Public Safety Remarks",
+  "event": "10th Annual State of the City Address",
+  "speaker": "Mayor Steven M. Fulop",
+  "event_date": "2023-03-28",
+  "date_basis": "City of Jersey City press release and official event coverage",
+  "source_transcript": "meeting_transcripts/mayoral_data.txt",
+  "official_source_url": "https://www.jerseycitynj.gov/news/mayorfulopdelivers10thannualstateofthecityaddress",
+  "transcript_type": "timestamped excerpt",
+  "editorial_note": "Wording follows the supplied transcript, including apparent automated transcription errors. The final export-interface marker is preserved under source_artifacts and omitted from the readable transcript. Section labels were added for navigation; raw_line preserves every source transcript line.",
+  "sections": [
+    {
+      "number": 1,
+      "title": "Police staffing crime and training",
+      "start_segment_id": 1,
+      "start_timestamp": null,
+      "end_segment_id": 14
+    },
+    {
+      "number": 2,
+      "title": "Fire safety and department expansion",
+      "start_segment_id": 15,
+      "start_timestamp": "00:01:53",
+      "end_segment_id": 26
+    },
+    {
+      "number": 3,
+      "title": "Traffic safety and Vision Zero",
+      "start_segment_id": 27,
+      "start_timestamp": "00:03:01",
+      "end_segment_id": 38
+    }
+  ],
+  "segments": [
+    {
+      "id": 1,
+      "timestamp": null,
+      "start_seconds": null,
+      "line_number": 1,
+      "text": "what are the other necessities to make a city a desirable place to live I'd say Public Safety ranks towards the",
+      "raw_line": "what are the other necessities to make a city a desirable place to live I'd say Public Safety ranks towards the",
+      "section": 1
+    },
+    {
+      "id": 2,
+      "timestamp": "00:00:07",
+      "start_seconds": 7,
+      "line_number": 2,
+      "text": "top of that list Nationwide violent crime continues to increase at an alarming rate we see that all the time in contrast our Administration has led",
+      "raw_line": "0:077 secondstop of that list Nationwide violent crime continues to increase at an alarming rate we see that all the time in contrast our Administration has led",
+      "section": 1
+    },
+    {
+      "id": 3,
+      "timestamp": "00:00:15",
+      "start_seconds": 15,
+      "line_number": 3,
+      "text": "Jersey City in the opposite direction when nearly all areas of crime decreasing City ride we actually ended 2022 with a nearly 50",
+      "raw_line": "0:1515 secondsJersey City in the opposite direction when nearly all areas of crime decreasing City ride we actually ended 2022 with a nearly 50",
+      "section": 1
+    },
+    {
+      "id": 4,
+      "timestamp": "00:00:24",
+      "start_seconds": 24,
+      "line_number": 4,
+      "text": "percent decrease in homicides and a 30 percent decrease in shooting since my first full year in office",
+      "raw_line": "0:2424 secondspercent decrease in homicides and a 30 percent decrease in shooting since my first full year in office",
+      "section": 1
+    },
+    {
+      "id": 5,
+      "timestamp": "00:00:34",
+      "start_seconds": 34,
+      "line_number": 5,
+      "text": "we're on track for even better results in 2023 of the nearly 800 police officers 800",
+      "raw_line": "0:3434 secondswe're on track for even better results in 2023 of the nearly 800 police officers 800",
+      "section": 1
+    },
+    {
+      "id": 6,
+      "timestamp": "00:00:42",
+      "start_seconds": 42,
+      "line_number": 6,
+      "text": "that I've hired since I became mayor three out of every four are minorities and this is a direct result of our ongoing diversity recruitment efforts",
+      "raw_line": "0:4242 secondsthat I've hired since I became mayor three out of every four are minorities and this is a direct result of our ongoing diversity recruitment efforts",
+      "section": 1
+    },
+    {
+      "id": 7,
+      "timestamp": "00:00:50",
+      "start_seconds": 50,
+      "line_number": 7,
+      "text": "which also have grown the police department to the largest size it has been in decades",
+      "raw_line": "0:5050 secondswhich also have grown the police department to the largest size it has been in decades",
+      "section": 1
+    },
+    {
+      "id": 8,
+      "timestamp": "00:00:59",
+      "start_seconds": 59,
+      "line_number": 8,
+      "text": "I I am a firm believer that the police department should reflect the city it serves and in Jersey City we are doing just that",
+      "raw_line": "0:5959 secondsI I am a firm believer that the police department should reflect the city it serves and in Jersey City we are doing just that",
+      "section": 1
+    },
+    {
+      "id": 9,
+      "timestamp": "00:01:07",
+      "start_seconds": 67,
+      "line_number": 9,
+      "text": "it's day one of my tenure my commitment has never wavered to enhance the police department by both quantity and more importantly in quality we are working to",
+      "raw_line": "1:071 minute, 7 secondsit's day one of my tenure my commitment has never wavered to enhance the police department by both quantity and more importantly in quality we are working to",
+      "section": 1
+    },
+    {
+      "id": 10,
+      "timestamp": "00:01:16",
+      "start_seconds": 76,
+      "line_number": 10,
+      "text": "combat crime from every angle including how we train our police officers not just at the beginning of their careers but throughout their Decades of service",
+      "raw_line": "1:161 minute, 16 secondscombat crime from every angle including how we train our police officers not just at the beginning of their careers but throughout their Decades of service",
+      "section": 1
+    },
+    {
+      "id": 11,
+      "timestamp": "00:01:23",
+      "start_seconds": 83,
+      "line_number": 11,
+      "text": "to keep up with the constantly evolving laws and cultural considerations that brings me to our investment in training construction is underway at the city's",
+      "raw_line": "1:231 minute, 23 secondsto keep up with the constantly evolving laws and cultural considerations that brings me to our investment in training construction is underway at the city's",
+      "section": 1
+    },
+    {
+      "id": 12,
+      "timestamp": "00:01:32",
+      "start_seconds": 92,
+      "line_number": 12,
+      "text": "first ever de-escalation training center located on DPW campus heating The public's call for better de-escalation practices this facility will include our",
+      "raw_line": "1:321 minute, 32 secondsfirst ever de-escalation training center located on DPW campus heating The public's call for better de-escalation practices this facility will include our",
+      "section": 1
+    },
+    {
+      "id": 13,
+      "timestamp": "00:01:41",
+      "start_seconds": 101,
+      "line_number": 13,
+      "text": "first 360 degree simulator which is the most effective training for de-escalation the training center will open at the end of this year",
+      "raw_line": "1:411 minute, 41 secondsfirst 360 degree simulator which is the most effective training for de-escalation the training center will open at the end of this year",
+      "section": 1
+    },
+    {
+      "id": 14,
+      "timestamp": "00:01:50",
+      "start_seconds": 110,
+      "line_number": 14,
+      "text": "[Applause]",
+      "raw_line": "1:501 minute, 50 seconds[Applause]",
+      "section": 1
+    },
+    {
+      "id": 15,
+      "timestamp": "00:01:53",
+      "start_seconds": 113,
+      "line_number": 15,
+      "text": "Public Safety though also entails fire safety we 've come a long way since inheriting a fire department over multiple firehouses were inoperable",
+      "raw_line": "1:531 minute, 53 secondsPublic Safety though also entails fire safety we 've come a long way since inheriting a fire department over multiple firehouses were inoperable",
+      "section": 2
+    },
+    {
+      "id": 16,
+      "timestamp": "00:02:01",
+      "start_seconds": 121,
+      "line_number": 16,
+      "text": "every day due to understaffing for the first time in 85 years 85 years this past summer we created two brand new",
+      "raw_line": "2:012 minutes, 1 secondevery day due to understaffing for the first time in 85 years 85 years this past summer we created two brand new",
+      "section": 2
+    },
+    {
+      "id": 17,
+      "timestamp": "00:02:10",
+      "start_seconds": 130,
+      "line_number": 17,
+      "text": "companies within our fire department the high-rise unit and the rapid intervention crew expanding from 26 to 28 companies operating every single day",
+      "raw_line": "2:102 minutes, 10 secondscompanies within our fire department the high-rise unit and the rapid intervention crew expanding from 26 to 28 companies operating every single day",
+      "section": 2
+    },
+    {
+      "id": 18,
+      "timestamp": "00:02:18",
+      "start_seconds": 138,
+      "line_number": 18,
+      "text": "just a few months ago I had the honor of promoting the fire department's first female deputy chief also making her New",
+      "raw_line": "2:182 minutes, 18 secondsjust a few months ago I had the honor of promoting the fire department's first female deputy chief also making her New",
+      "section": 2
+    },
+    {
+      "id": 19,
+      "timestamp": "00:02:26",
+      "start_seconds": 146,
+      "line_number": 19,
+      "text": "Jersey's highest ranking professional female firefighter in the entire State I think she's actually here today",
+      "raw_line": "2:262 minutes, 26 secondsJersey's highest ranking professional female firefighter in the entire State I think she's actually here today",
+      "section": 2
+    },
+    {
+      "id": 20,
+      "timestamp": "00:02:32",
+      "start_seconds": 152,
+      "line_number": 20,
+      "text": "[Applause]",
+      "raw_line": "2:322 minutes, 32 seconds[Applause]",
+      "section": 2
+    },
+    {
+      "id": 21,
+      "timestamp": "00:02:34",
+      "start_seconds": 154,
+      "line_number": 21,
+      "text": "[Music]",
+      "raw_line": "2:342 minutes, 34 seconds[Music]",
+      "section": 2
+    },
+    {
+      "id": 22,
+      "timestamp": "00:02:35",
+      "start_seconds": 155,
+      "line_number": 22,
+      "text": "[Applause]",
+      "raw_line": "2:352 minutes, 35 seconds[Applause]",
+      "section": 2
+    },
+    {
+      "id": 23,
+      "timestamp": "00:02:38",
+      "start_seconds": 158,
+      "line_number": 23,
+      "text": "you want to stand up for us please",
+      "raw_line": "2:382 minutes, 38 secondsyou want to stand up for us please",
+      "section": 2
+    },
+    {
+      "id": 24,
+      "timestamp": "00:02:40",
+      "start_seconds": 160,
+      "line_number": 24,
+      "text": "[Applause]",
+      "raw_line": "2:402 minutes, 40 seconds[Applause]",
+      "section": 2
+    },
+    {
+      "id": 25,
+      "timestamp": "00:02:47",
+      "start_seconds": 167,
+      "line_number": 25,
+      "text": "you are also awarded the top one percent of fire protection Nationwide for the first time clearly we are moving in a",
+      "raw_line": "2:472 minutes, 47 secondsyou are also awarded the top one percent of fire protection Nationwide for the first time clearly we are moving in a",
+      "section": 2
+    },
+    {
+      "id": 26,
+      "timestamp": "00:02:54",
+      "start_seconds": 174,
+      "line_number": 26,
+      "text": "positive direction uniform Public Safety has been an undeniable investment we've made the benefits show but Public Safety",
+      "raw_line": "2:542 minutes, 54 secondspositive direction uniform Public Safety has been an undeniable investment we've made the benefits show but Public Safety",
+      "section": 2
+    },
+    {
+      "id": 27,
+      "timestamp": "00:03:01",
+      "start_seconds": 181,
+      "line_number": 27,
+      "text": "is more than just police and fire traffic fatalities are the leading cause of preventable deaths across the nation and we're taking the important steps to",
+      "raw_line": "3:013 minutes, 1 secondis more than just police and fire traffic fatalities are the leading cause of preventable deaths across the nation and we're taking the important steps to",
+      "section": 3
+    },
+    {
+      "id": 28,
+      "timestamp": "00:03:09",
+      "start_seconds": 189,
+      "line_number": 28,
+      "text": "implement real life-saving improvements here in Jersey City it takes leadership it takes commitment it takes Innovation",
+      "raw_line": "3:093 minutes, 9 secondsimplement real life-saving improvements here in Jersey City it takes leadership it takes commitment it takes Innovation",
+      "section": 3
+    },
+    {
+      "id": 29,
+      "timestamp": "00:03:16",
+      "start_seconds": 196,
+      "line_number": 29,
+      "text": "and as a result of our willingness to effectively think outside the box together we are saving lives last year",
+      "raw_line": "3:163 minutes, 16 secondsand as a result of our willingness to effectively think outside the box together we are saving lives last year",
+      "section": 3
+    },
+    {
+      "id": 30,
+      "timestamp": "00:03:24",
+      "start_seconds": 204,
+      "line_number": 30,
+      "text": "we had zero traffic deaths on City roadways as a direct result of the Key Safety improvements that we've made together prior to these changes the city would",
+      "raw_line": "3:243 minutes, 24 secondswe had zero traffic deaths on City roadways as a direct result of the Key Safety improvements that we've made together prior to these changes the city would",
+      "section": 3
+    },
+    {
+      "id": 31,
+      "timestamp": "00:03:32",
+      "start_seconds": 212,
+      "line_number": 31,
+      "text": "average 10 traffic related deaths per year so let me put that in a different perspective it is a meaningful difference to get that down to zero last",
+      "raw_line": "3:323 minutes, 32 secondsaverage 10 traffic related deaths per year so let me put that in a different perspective it is a meaningful difference to get that down to zero last",
+      "section": 3
+    },
+    {
+      "id": 32,
+      "timestamp": "00:03:41",
+      "start_seconds": 221,
+      "line_number": 32,
+      "text": "year that's families that are still together where perhaps under different circumstances there would be different outcomes and how do we do this",
+      "raw_line": "3:413 minutes, 41 secondsyear that's families that are still together where perhaps under different circumstances there would be different outcomes and how do we do this",
+      "section": 3
+    },
+    {
+      "id": 33,
+      "timestamp": "00:03:49",
+      "start_seconds": 229,
+      "line_number": 33,
+      "text": "by making sure each neighborhood is intimately involved every step of the way if something doesn't work just right we use resonance feedback to make",
+      "raw_line": "3:493 minutes, 49 secondsby making sure each neighborhood is intimately involved every step of the way if something doesn't work just right we use resonance feedback to make",
+      "section": 3
+    },
+    {
+      "id": 34,
+      "timestamp": "00:03:57",
+      "start_seconds": 237,
+      "line_number": 34,
+      "text": "changes until we've effectively achieved our Collective goal since becoming the first municipality in New Jersey to adopt Vision zero in 2017 we've",
+      "raw_line": "3:573 minutes, 57 secondschanges until we've effectively achieved our Collective goal since becoming the first municipality in New Jersey to adopt Vision zero in 2017 we've",
+      "section": 3
+    },
+    {
+      "id": 35,
+      "timestamp": "00:04:06",
+      "start_seconds": 246,
+      "line_number": 35,
+      "text": "installed over 600 speed humps Citywide at the direct request of residents over 400 intersections have been upgraded to",
+      "raw_line": "4:064 minutes, 6 secondsinstalled over 600 speed humps Citywide at the direct request of residents over 400 intersections have been upgraded to",
+      "section": 3
+    },
+    {
+      "id": 36,
+      "timestamp": "00:04:14",
+      "start_seconds": 254,
+      "line_number": 36,
+      "text": "improve safety we built 20 miles of protected bike Lanes in just three years it takes a willingness to try new things",
+      "raw_line": "4:144 minutes, 14 secondsimprove safety we built 20 miles of protected bike Lanes in just three years it takes a willingness to try new things",
+      "section": 3
+    },
+    {
+      "id": 37,
+      "timestamp": "00:04:21",
+      "start_seconds": 261,
+      "line_number": 37,
+      "text": "that are not being done anywhere else lastly it takes leadership not just from local government but from all of you",
+      "raw_line": "4:214 minutes, 21 secondsthat are not being done anywhere else lastly it takes leadership not just from local government but from all of you",
+      "section": 3
+    },
+    {
+      "id": 38,
+      "timestamp": "00:04:28",
+      "start_seconds": 268,
+      "line_number": 38,
+      "text": "everyone in the community",
+      "raw_line": "4:284 minutes, 28 secondseveryone in the community",
+      "section": 3
+    }
+  ],
+  "source_artifacts": [
+    {
+      "line_number": 40,
+      "text": "Sync to video time",
+      "note": "Export interface marker; excluded from the readable transcript."
+    }
+  ]
+}
