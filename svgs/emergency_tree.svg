@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 760" width="1440" height="760" font-family="Inter, -apple-system, Helvetica, Arial, sans-serif" role="img" aria-label="What emergency and service calls are made of">
+<rect width="1440" height="760" fill="#FFFFFF"/>
+<text x="46.0" y="60" font-size="30" font-weight="600" fill="#111827">What emergency and service calls are made of</text>
+<text x="46.0" y="94" font-size="17" fill="#6B7280">Share of 6,759 calls not coded non-emergency (63% of all calls, 21,608 unit responses) · Jersey City Fire · Feb 1 – Sep 16, 2026</text>
+<rect x="570.0" y="176" width="300" height="74" rx="12" fill="#111827"/>
+<circle cx="610.0" cy="206" r="7" fill="#E03E1A"/>
+<text x="628.0" y="214" font-size="24" font-weight="600" fill="#FFFFFF">Emergency</text>
+<text x="628.0" y="236" font-size="14" fill="#CBD5E1">6,759 calls</text>
+<line x1="720.0" x2="720.0" y1="250" y2="330" stroke="#CBD5E1" stroke-width="2"/>
+<line x1="150.0" x2="1290.0" y1="330" y2="330" stroke="#CBD5E1" stroke-width="2"/>
+<line x1="150.0" x2="150.0" y1="330" y2="400" stroke="#CBD5E1" stroke-width="2"/>
+<g><title>Public service: 3,099 calls (45.8%), 7,194 unit responses</title>
+<rect x="46.0" y="400" width="208" height="268" rx="16" fill="#FFF5F0" stroke="#F2A08A" stroke-width="2"/>
+<text x="70.0" y="440" font-size="14" fill="#E03E1A">49% citizen assist</text>
+<text x="70.0" y="474" font-size="20" font-weight="600" fill="#111827">Public</text>
+<text x="70.0" y="500" font-size="20" font-weight="600" fill="#111827">service</text>
+<text x="70.0" y="586" font-size="46" font-weight="600" fill="#E03E1A">46%</text>
+<rect x="70.0" y="606" width="160" height="8" rx="4" fill="#E5E7EB"/>
+<rect x="70.0" y="606" width="73.4" height="8" rx="4" fill="#E03E1A"/>
+<text x="70.0" y="644" font-size="15" fill="#6B7280">3,099 calls · 7,194 units</text>
+</g>
+<line x1="378.0" x2="378.0" y1="330" y2="400" stroke="#CBD5E1" stroke-width="2"/>
+<g><title>Hazardous situation: 1,584 calls (23.4%), 5,725 unit responses</title>
+<rect x="274.0" y="400" width="208" height="268" rx="16" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+<text x="298.0" y="440" font-size="14" fill="#6B7280">27% gas leak / odor</text>
+<text x="298.0" y="474" font-size="20" font-weight="600" fill="#111827">Hazardous</text>
+<text x="298.0" y="500" font-size="20" font-weight="600" fill="#111827">situation</text>
+<text x="298.0" y="586" font-size="46" font-weight="600" fill="#111827">23%</text>
+<rect x="298.0" y="606" width="160" height="8" rx="4" fill="#E5E7EB"/>
+<rect x="298.0" y="606" width="37.5" height="8" rx="4" fill="#F2A08A"/>
+<text x="298.0" y="644" font-size="15" fill="#6B7280">1,584 calls · 5,725 units</text>
+</g>
+<line x1="606.0" x2="606.0" y1="330" y2="400" stroke="#CBD5E1" stroke-width="2"/>
+<g><title>Fire: 1,004 calls (14.9%), 6,708 unit responses</title>
+<rect x="502.0" y="400" width="208" height="268" rx="16" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+<text x="526.0" y="440" font-size="14" fill="#6B7280">62% cooking fires</text>
+<text x="526.0" y="474" font-size="20" font-weight="600" fill="#111827">Fire</text>
+<text x="526.0" y="586" font-size="46" font-weight="600" fill="#111827">15%</text>
+<rect x="526.0" y="606" width="160" height="8" rx="4" fill="#E5E7EB"/>
+<rect x="526.0" y="606" width="23.8" height="8" rx="4" fill="#F2A08A"/>
+<text x="526.0" y="644" font-size="15" fill="#6B7280">1,004 calls · 6,708 units</text>
+</g>
+<line x1="834.0" x2="834.0" y1="330" y2="400" stroke="#CBD5E1" stroke-width="2"/>
+<g><title>Medical: 517 calls (7.6%), 983 unit responses</title>
+<rect x="730.0" y="400" width="208" height="268" rx="16" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+<text x="754.0" y="440" font-size="14" fill="#6B7280">46% vehicle collisions</text>
+<text x="754.0" y="474" font-size="20" font-weight="600" fill="#111827">Medical</text>
+<text x="754.0" y="586" font-size="46" font-weight="600" fill="#111827">7.6%</text>
+<rect x="754.0" y="606" width="160" height="8" rx="4" fill="#E5E7EB"/>
+<rect x="754.0" y="606" width="12.2" height="8" rx="4" fill="#F2A08A"/>
+<text x="754.0" y="644" font-size="15" fill="#6B7280">517 calls · 983 units</text>
+</g>
+<line x1="1062.0" x2="1062.0" y1="330" y2="400" stroke="#CBD5E1" stroke-width="2"/>
+<g><title>Rescue: 497 calls (7.4%), 875 unit responses</title>
+<rect x="958.0" y="400" width="208" height="268" rx="16" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+<text x="982.0" y="440" font-size="14" fill="#6B7280">80% elevator rescues</text>
+<text x="982.0" y="474" font-size="20" font-weight="600" fill="#111827">Rescue</text>
+<text x="982.0" y="586" font-size="46" font-weight="600" fill="#111827">7.4%</text>
+<rect x="982.0" y="606" width="160" height="8" rx="4" fill="#E5E7EB"/>
+<rect x="982.0" y="606" width="11.8" height="8" rx="4" fill="#F2A08A"/>
+<text x="982.0" y="644" font-size="15" fill="#6B7280">497 calls · 875 units</text>
+</g>
+<line x1="1290.0" x2="1290.0" y1="330" y2="400" stroke="#CBD5E1" stroke-width="2"/>
+<g><title>Law enforcement: 58 calls (0.9%), 123 unit responses</title>
+<rect x="1186.0" y="400" width="208" height="268" rx="16" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+<text x="1210.0" y="440" font-size="14" fill="#6B7280">Assisting police</text>
+<text x="1210.0" y="474" font-size="20" font-weight="600" fill="#111827">Law</text>
+<text x="1210.0" y="500" font-size="20" font-weight="600" fill="#111827">enforcement</text>
+<text x="1210.0" y="586" font-size="46" font-weight="600" fill="#111827">0.9%</text>
+<rect x="1210.0" y="606" width="160" height="8" rx="4" fill="#E5E7EB"/>
+<rect x="1210.0" y="606" width="8.0" height="8" rx="4" fill="#F2A08A"/>
+<text x="1210.0" y="644" font-size="15" fill="#6B7280">58 calls · 123 units</text>
+</g>
+<text x="46.0" y="730" font-size="15" fill="#6B7280">NERIS Public, Jersey City Fire Department. Small label = largest subtype within each group. Public service includes non-medical alarm activations. Largest share on the left.</text>
+</svg>

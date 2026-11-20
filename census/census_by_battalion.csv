@@ -1,0 +1,5 @@
+area,population,age_under_5,age_65_plus,poverty_universe,below_poverty,households,income_universe,hh_income_under_50k,hh_income_200k_plus,occupied_units,renter_occupied,housing_units,units_in_20plus_buildings,units_built_pre_1940,language_universe,limited_english_households,pct_under_5,pct_65_plus,pct_below_poverty,pct_hh_under_50k,pct_hh_200k_plus,pct_renter,pct_units_20plus_bldg,pct_built_pre_1940,pct_limited_english_hh
+1st Battalion,72568,4706,4436,72348,5800,37067,37067,5176,17126,37067,29494,40108,29172,7245,37067,1915,6.5,6.1,8.0,14.0,46.2,79.6,72.7,18.1,5.2
+2nd Battalion,84302,6242,12215,83241,14169,30531,30531,10243,4096,30531,18779,32686,5125,8353,30531,2339,7.4,14.5,17.0,33.5,13.4,61.5,15.7,25.6,7.7
+3rd Battalion,64524,3642,8838,63924,10787,27421,27421,8300,4527,27421,18953,30023,5946,11981,27421,3348,5.6,13.7,16.9,30.3,16.5,69.1,19.8,39.9,12.2
+4th Battalion,72684,4833,9178,72097,14809,30204,30204,11148,3452,30204,23030,32414,11673,11930,30204,3734,6.6,12.6,20.5,36.9,11.4,76.2,36.0,36.8,12.4

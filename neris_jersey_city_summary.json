@@ -1,0 +1,126 @@
+{
+  "source": "https://lpbcyjocolyzmvo6.svcs5.arcgis.com/lPbcyJOcoLyZmvo6/ArcGIS/rest/services/NERIS%20Public%20Incident%20Basics/FeatureServer/0",
+  "department_id": "FD34017554",
+  "retrieved_at_utc": "2026-11-18T22:46:51.138976+00:00",
+  "incident_count": 10777,
+  "earliest_call_eastern": "2026-01-31T20:34:49-05:00",
+  "latest_call_eastern": "2026-09-16T02:02:05-04:00",
+  "by_type": {
+    "FIRE": {
+      "incidents": 1004,
+      "known_unit_responses": 6708,
+      "missing_unit_counts": 0
+    },
+    "HAZSIT": {
+      "incidents": 1584,
+      "known_unit_responses": 5725,
+      "missing_unit_counts": 0
+    },
+    "LAWENFORCE": {
+      "incidents": 58,
+      "known_unit_responses": 123,
+      "missing_unit_counts": 0
+    },
+    "MEDICAL": {
+      "incidents": 517,
+      "known_unit_responses": 983,
+      "missing_unit_counts": 0
+    },
+    "NOEMERG": {
+      "incidents": 4018,
+      "known_unit_responses": 17367,
+      "missing_unit_counts": 0
+    },
+    "PUBSERV": {
+      "incidents": 3099,
+      "known_unit_responses": 7194,
+      "missing_unit_counts": 0
+    },
+    "RESCUE": {
+      "incidents": 497,
+      "known_unit_responses": 875,
+      "missing_unit_counts": 0
+    }
+  },
+  "by_month": {
+    "2026-01": {
+      "incidents": 3,
+      "known_unit_responses": 12,
+      "missing_unit_counts": 0
+    },
+    "2026-02": {
+      "incidents": 1695,
+      "known_unit_responses": 6093,
+      "missing_unit_counts": 0
+    },
+    "2026-03": {
+      "incidents": 1363,
+      "known_unit_responses": 4932,
+      "missing_unit_counts": 0
+    },
+    "2026-04": {
+      "incidents": 1240,
+      "known_unit_responses": 4704,
+      "missing_unit_counts": 0
+    },
+    "2026-05": {
+      "incidents": 1266,
+      "known_unit_responses": 4978,
+      "missing_unit_counts": 0
+    },
+    "2026-06": {
+      "incidents": 1406,
+      "known_unit_responses": 5151,
+      "missing_unit_counts": 0
+    },
+    "2026-07": {
+      "incidents": 1630,
+      "known_unit_responses": 5528,
+      "missing_unit_counts": 0
+    },
+    "2026-08": {
+      "incidents": 1557,
+      "known_unit_responses": 5242,
+      "missing_unit_counts": 0
+    },
+    "2026-09": {
+      "incidents": 617,
+      "known_unit_responses": 2335,
+      "missing_unit_counts": 0
+    }
+  },
+  "unit_count_distribution": {
+    "1": 3732,
+    "2": 397,
+    "3": 122,
+    "4": 4160,
+    "5": 1079,
+    "6": 194,
+    "7": 245,
+    "8": 121,
+    "9": 349,
+    "10": 157,
+    "11": 60,
+    "12": 20,
+    "13": 17,
+    "14": 23,
+    "15": 16,
+    "16": 11,
+    "17": 8,
+    "18": 9,
+    "19": 14,
+    "20": 8,
+    "21": 6,
+    "22": 5,
+    "23": 1,
+    "25": 5,
+    "26": 4,
+    "27": 4,
+    "28": 3,
+    "29": 3,
+    "30": 1,
+    "32": 1,
+    "35": 1,
+    "43": 1
+  }
+}

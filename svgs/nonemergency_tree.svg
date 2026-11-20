@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 760" width="1440" height="760" font-family="Inter, -apple-system, Helvetica, Arial, sans-serif" role="img" aria-label="What non-emergency calls are made of">
+<rect width="1440" height="760" fill="#FFFFFF"/>
+<text x="46.0" y="60" font-size="30" font-weight="600" fill="#111827">What non-emergency calls are made of</text>
+<text x="46.0" y="94" font-size="17" fill="#6B7280">Share of 4,018 non-emergency calls (37% of all calls, 17,367 unit responses) · Jersey City Fire · Feb 1 – Sep 16, 2026</text>
+<rect x="570.0" y="176" width="300" height="74" rx="12" fill="#111827"/>
+<circle cx="610.0" cy="206" r="7" fill="#E03E1A"/>
+<text x="628.0" y="214" font-size="24" font-weight="600" fill="#FFFFFF">Non-emergency</text>
+<text x="628.0" y="236" font-size="14" fill="#CBD5E1">4,018 calls</text>
+<line x1="720.0" x2="720.0" y1="250" y2="330" stroke="#CBD5E1" stroke-width="2"/>
+<line x1="150.0" x2="1290.0" y1="330" y2="330" stroke="#CBD5E1" stroke-width="2"/>
+<line x1="150.0" x2="150.0" y1="330" y2="400" stroke="#CBD5E1" stroke-width="2"/>
+<g><title>Malfunctioning alarm: 1,752 calls (43.6%), 7,558 unit responses</title>
+<rect x="46.0" y="400" width="208" height="268" rx="16" fill="#FFF5F0" stroke="#F2A08A" stroke-width="2"/>
+<text x="70.0" y="440" font-size="14" fill="#E03E1A">Alarm system</text>
+<text x="70.0" y="474" font-size="20" font-weight="600" fill="#111827">Malfunctioning</text>
+<text x="70.0" y="500" font-size="20" font-weight="600" fill="#111827">alarm</text>
+<text x="70.0" y="586" font-size="46" font-weight="600" fill="#E03E1A">44%</text>
+<rect x="70.0" y="606" width="160" height="8" rx="4" fill="#E5E7EB"/>
+<rect x="70.0" y="606" width="69.8" height="8" rx="4" fill="#E03E1A"/>
+<text x="70.0" y="644" font-size="15" fill="#6B7280">1,752 calls · 7,558 units</text>
+</g>
+<line x1="378.0" x2="378.0" y1="330" y2="400" stroke="#CBD5E1" stroke-width="2"/>
+<g><title>Accidental alarm: 1,253 calls (31.2%), 5,489 unit responses</title>
+<rect x="274.0" y="400" width="208" height="268" rx="16" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+<text x="298.0" y="440" font-size="14" fill="#6B7280">Alarm system</text>
+<text x="298.0" y="474" font-size="20" font-weight="600" fill="#111827">Accidental</text>
+<text x="298.0" y="500" font-size="20" font-weight="600" fill="#111827">alarm</text>
+<text x="298.0" y="586" font-size="46" font-weight="600" fill="#111827">31%</text>
+<rect x="298.0" y="606" width="160" height="8" rx="4" fill="#E5E7EB"/>
+<rect x="298.0" y="606" width="49.9" height="8" rx="4" fill="#F2A08A"/>
+<text x="298.0" y="644" font-size="15" fill="#6B7280">1,253 calls · 5,489 units</text>
+</g>
+<line x1="606.0" x2="606.0" y1="330" y2="400" stroke="#CBD5E1" stroke-width="2"/>
+<g><title>Good intent: 455 calls (11.3%), 2,047 unit responses</title>
+<rect x="502.0" y="400" width="208" height="268" rx="16" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+<text x="526.0" y="440" font-size="14" fill="#6B7280">Good faith</text>
+<text x="526.0" y="474" font-size="20" font-weight="600" fill="#111827">Good intent</text>
+<text x="526.0" y="586" font-size="46" font-weight="600" fill="#111827">11%</text>
+<rect x="526.0" y="606" width="160" height="8" rx="4" fill="#E5E7EB"/>
+<rect x="526.0" y="606" width="18.1" height="8" rx="4" fill="#F2A08A"/>
+<text x="526.0" y="644" font-size="15" fill="#6B7280">455 calls · 2,047 units</text>
+</g>
+<line x1="834.0" x2="834.0" y1="330" y2="400" stroke="#CBD5E1" stroke-width="2"/>
+<g><title>Other false call: 328 calls (8.2%), 1,390 unit responses</title>
+<rect x="730.0" y="400" width="208" height="268" rx="16" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+<text x="754.0" y="440" font-size="14" fill="#6B7280">Unclassified</text>
+<text x="754.0" y="474" font-size="20" font-weight="600" fill="#111827">Other false</text>
+<text x="754.0" y="500" font-size="20" font-weight="600" fill="#111827">call</text>
+<text x="754.0" y="586" font-size="46" font-weight="600" fill="#111827">8.2%</text>
+<rect x="754.0" y="606" width="160" height="8" rx="4" fill="#E5E7EB"/>
+<rect x="754.0" y="606" width="13.1" height="8" rx="4" fill="#F2A08A"/>
+<text x="754.0" y="644" font-size="15" fill="#6B7280">328 calls · 1,390 units</text>
+</g>
+<line x1="1062.0" x2="1062.0" y1="330" y2="400" stroke="#CBD5E1" stroke-width="2"/>
+<g><title>Intentional / bomb scare: 156 calls (3.9%), 724 unit responses</title>
+<rect x="958.0" y="400" width="208" height="268" rx="16" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+<text x="982.0" y="440" font-size="14" fill="#6B7280">Deliberate</text>
+<text x="982.0" y="474" font-size="20" font-weight="600" fill="#111827">Intentional /</text>
+<text x="982.0" y="500" font-size="20" font-weight="600" fill="#111827">bomb scare</text>
+<text x="982.0" y="586" font-size="46" font-weight="600" fill="#111827">3.9%</text>
+<rect x="982.0" y="606" width="160" height="8" rx="4" fill="#E5E7EB"/>
+<rect x="982.0" y="606" width="8.0" height="8" rx="4" fill="#F2A08A"/>
+<text x="982.0" y="644" font-size="15" fill="#6B7280">156 calls · 724 units</text>
+</g>
+<line x1="1290.0" x2="1290.0" y1="330" y2="400" stroke="#CBD5E1" stroke-width="2"/>
+<g><title>Cancelled: 74 calls (1.8%), 159 unit responses</title>
+<rect x="1186.0" y="400" width="208" height="268" rx="16" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+<text x="1210.0" y="440" font-size="14" fill="#6B7280">Good faith</text>
+<text x="1210.0" y="474" font-size="20" font-weight="600" fill="#111827">Cancelled</text>
+<text x="1210.0" y="586" font-size="46" font-weight="600" fill="#111827">1.8%</text>
+<rect x="1210.0" y="606" width="160" height="8" rx="4" fill="#E5E7EB"/>
+<rect x="1210.0" y="606" width="8.0" height="8" rx="4" fill="#F2A08A"/>
+<text x="1210.0" y="644" font-size="15" fill="#6B7280">74 calls · 159 units</text>
+</g>
+<text x="46.0" y="730" font-size="15" fill="#6B7280">NERIS Public, Jersey City Fire Department. Good intent = no incident found, harmless smoke, hazmat investigation, authorized burn. Largest share on the left.</text>
+</svg>

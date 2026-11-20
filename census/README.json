@@ -1,0 +1,11 @@
+{
+  "acs_release": {
+    "id": "acs2024_5yr",
+    "name": "ACS 2024 5-year",
+    "years": "2020-2024"
+  },
+  "tracts": 77,
+  "blocks_2020": 1504,
+  "block_population_2020": 292449,
+  "method": "Pull the latest ACS 5-year tract data for Jersey City and roll it up to fire\nbattalions and council wards.\n\nHow tracts are split: census tracts don't line up with battalion or ward lines, so\neach tract is split by its 2020 census blocks. Every block's interior point is placed\nin a battalion and a ward (point-in-polygon), and a tract's share of each area is the\nshare of its 2020 block population living there. Counts (people, households, housing\nunits...) are apportioned by those shares; rates are recomputed from the apportioned\ncounts. Medians can't be apportioned, so median income stays tract-only and areas get\nincome-bracket shares (households under $50k, $200k+) instead."
+}

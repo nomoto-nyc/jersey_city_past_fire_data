@@ -1,0 +1,273 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 580" width="960" height="580" font-family="Inter, -apple-system, Helvetica, Arial, sans-serif" role="img" aria-label="Calls per day by day of week">
+<rect width="960" height="580" fill="#FFFFFF"/>
+<text x="72" y="44" font-size="24" font-weight="600" fill="#111827">Calls per day, by day of week</text>
+<text x="72" y="72" font-size="14" fill="#6B7280">Each dot is one day (227 days, Feb 1 – Sep 15, 2026). Bar = median day. Jersey City Fire, NERIS Public.</text>
+<line x1="72" x2="936" y1="490.0" y2="490.0" stroke="#BDBDBD" stroke-width="1"/>
+<text x="62" y="494.0" font-size="12" fill="#6B7280" text-anchor="end">0</text>
+<line x1="72" x2="936" y1="395.0" y2="395.0" stroke="#E5E7EB" stroke-width="1"/>
+<text x="62" y="399.0" font-size="12" fill="#6B7280" text-anchor="end">40</text>
+<line x1="72" x2="936" y1="300.0" y2="300.0" stroke="#E5E7EB" stroke-width="1"/>
+<text x="62" y="304.0" font-size="12" fill="#6B7280" text-anchor="end">80</text>
+<line x1="72" x2="936" y1="205.0" y2="205.0" stroke="#E5E7EB" stroke-width="1"/>
+<text x="62" y="209.0" font-size="12" fill="#6B7280" text-anchor="end">120</text>
+<line x1="72" x2="936" y1="110.0" y2="110.0" stroke="#E5E7EB" stroke-width="1"/>
+<text x="62" y="114.0" font-size="12" fill="#6B7280" text-anchor="end">160</text>
+<path d="M99.2,490.0V382.4Q99.2,378.4 103.2,378.4H164.3Q168.3,378.4 168.3,382.4V490.0Z" fill="#E03E1A" fill-opacity="0.16"><title>Mon: median 47 calls/day</title></path>
+<line x1="99.2" x2="168.3" y1="378.4" y2="378.4" stroke="#E03E1A" stroke-width="3" stroke-linecap="round"/>
+<circle cx="124.5" cy="269.1" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Feb 2: 93 calls</title></circle>
+<circle cx="115.4" cy="155.1" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Feb 9: 141 calls</title></circle>
+<text x="124.4" y="159.1" font-size="12" fill="#6B7280">Feb 9 · 141</text>
+<circle cx="141.6" cy="392.6" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Feb 16: 41 calls</title></circle>
+<circle cx="111.3" cy="209.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Feb 23: 118 calls</title></circle>
+<circle cx="135.6" cy="378.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Mar 2: 47 calls</title></circle>
+<circle cx="126.7" cy="385.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Mar 9: 44 calls</title></circle>
+<circle cx="110.5" cy="366.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Mar 16: 52 calls</title></circle>
+<circle cx="134.1" cy="378.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Mar 23: 47 calls</title></circle>
+<circle cx="109.4" cy="399.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Mar 30: 38 calls</title></circle>
+<circle cx="130.2" cy="399.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Apr 6: 38 calls</title></circle>
+<circle cx="111.1" cy="361.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Apr 13: 54 calls</title></circle>
+<circle cx="112.2" cy="395.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Apr 20: 40 calls</title></circle>
+<circle cx="129.7" cy="406.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Apr 27: 35 calls</title></circle>
+<circle cx="150.9" cy="378.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon May 4: 47 calls</title></circle>
+<circle cx="114.0" cy="390.2" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon May 11: 42 calls</title></circle>
+<circle cx="119.2" cy="404.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon May 18: 36 calls</title></circle>
+<circle cx="140.4" cy="378.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon May 25: 47 calls</title></circle>
+<circle cx="157.2" cy="366.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Jun 1: 52 calls</title></circle>
+<circle cx="137.8" cy="392.6" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Jun 8: 41 calls</title></circle>
+<circle cx="128.3" cy="371.2" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Jun 15: 50 calls</title></circle>
+<circle cx="158.7" cy="378.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Jun 22: 47 calls</title></circle>
+<circle cx="109.9" cy="387.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Jun 29: 43 calls</title></circle>
+<circle cx="152.5" cy="395.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Jul 6: 40 calls</title></circle>
+<circle cx="122.7" cy="359.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Jul 13: 55 calls</title></circle>
+<circle cx="115.0" cy="352.2" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Jul 20: 58 calls</title></circle>
+<circle cx="113.6" cy="390.2" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Jul 27: 42 calls</title></circle>
+<circle cx="123.7" cy="342.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Aug 3: 62 calls</title></circle>
+<circle cx="150.3" cy="380.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Aug 10: 46 calls</title></circle>
+<circle cx="116.9" cy="380.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Aug 17: 46 calls</title></circle>
+<circle cx="138.0" cy="414.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Aug 24: 32 calls</title></circle>
+<circle cx="141.0" cy="376.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Aug 31: 48 calls</title></circle>
+<circle cx="127.0" cy="397.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Sep 7: 39 calls</title></circle>
+<circle cx="136.2" cy="376.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Mon Sep 14: 48 calls</title></circle>
+<text x="133.7" y="512.0" font-size="13" fill="#6B7280" text-anchor="middle">Mon</text>
+<text x="133.7" y="532.0" font-size="15" font-weight="600" fill="#111827" text-anchor="middle">47</text>
+<path d="M222.6,490.0V391.9Q222.6,387.9 226.6,387.9H287.7Q291.7,387.9 291.7,391.9V490.0Z" fill="#E03E1A" fill-opacity="0.16"><title>Tue: median 43 calls/day</title></path>
+<line x1="222.6" x2="291.7" y1="387.9" y2="387.9" stroke="#E03E1A" stroke-width="3" stroke-linecap="round"/>
+<circle cx="234.2" cy="354.6" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Feb 3: 57 calls</title></circle>
+<circle cx="234.0" cy="240.6" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Feb 10: 105 calls</title></circle>
+<circle cx="241.7" cy="373.6" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Feb 17: 49 calls</title></circle>
+<circle cx="266.6" cy="395.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Feb 24: 40 calls</title></circle>
+<circle cx="253.3" cy="395.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Mar 3: 40 calls</title></circle>
+<circle cx="247.4" cy="361.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Mar 10: 54 calls</title></circle>
+<circle cx="261.6" cy="376.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Mar 17: 48 calls</title></circle>
+<circle cx="254.7" cy="376.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Mar 24: 48 calls</title></circle>
+<circle cx="246.6" cy="406.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Mar 31: 35 calls</title></circle>
+<circle cx="272.6" cy="397.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Apr 7: 39 calls</title></circle>
+<circle cx="267.6" cy="359.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Apr 14: 55 calls</title></circle>
+<circle cx="243.7" cy="376.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Apr 21: 48 calls</title></circle>
+<circle cx="261.1" cy="416.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Apr 28: 31 calls</title></circle>
+<circle cx="258.5" cy="387.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue May 5: 43 calls</title></circle>
+<circle cx="276.8" cy="423.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue May 12: 28 calls</title></circle>
+<circle cx="269.2" cy="378.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue May 19: 47 calls</title></circle>
+<circle cx="246.0" cy="366.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue May 26: 52 calls</title></circle>
+<circle cx="282.4" cy="406.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Jun 2: 35 calls</title></circle>
+<circle cx="237.1" cy="414.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Jun 9: 32 calls</title></circle>
+<circle cx="252.8" cy="378.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Jun 16: 47 calls</title></circle>
+<circle cx="270.7" cy="402.1" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Jun 23: 37 calls</title></circle>
+<circle cx="238.9" cy="361.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Jun 30: 54 calls</title></circle>
+<circle cx="256.6" cy="354.6" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Jul 7: 57 calls</title></circle>
+<circle cx="232.9" cy="409.2" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Jul 14: 34 calls</title></circle>
+<circle cx="266.0" cy="357.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Jul 21: 56 calls</title></circle>
+<circle cx="271.0" cy="397.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Jul 28: 39 calls</title></circle>
+<circle cx="261.0" cy="395.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Aug 4: 40 calls</title></circle>
+<circle cx="276.9" cy="357.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Aug 11: 56 calls</title></circle>
+<circle cx="247.4" cy="371.2" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Aug 18: 50 calls</title></circle>
+<circle cx="267.4" cy="395.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Aug 25: 40 calls</title></circle>
+<circle cx="262.1" cy="409.2" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Sep 1: 34 calls</title></circle>
+<circle cx="261.3" cy="418.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Sep 8: 30 calls</title></circle>
+<circle cx="254.8" cy="397.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Tue Sep 15: 39 calls</title></circle>
+<text x="257.1" y="512.0" font-size="13" fill="#6B7280" text-anchor="middle">Tue</text>
+<text x="257.1" y="532.0" font-size="15" font-weight="600" fill="#111827" text-anchor="middle">43</text>
+<path d="M346.0,490.0V390.7Q346.0,386.7 350.0,386.7H411.1Q415.1,386.7 415.1,390.7V490.0Z" fill="#E03E1A" fill-opacity="0.16"><title>Wed: median 43.5 calls/day</title></path>
+<line x1="346.0" x2="415.1" y1="386.7" y2="386.7" stroke="#E03E1A" stroke-width="3" stroke-linecap="round"/>
+<circle cx="398.4" cy="352.2" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Feb 4: 58 calls</title></circle>
+<circle cx="403.9" cy="330.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Feb 11: 67 calls</title></circle>
+<circle cx="379.2" cy="349.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Feb 18: 59 calls</title></circle>
+<circle cx="389.2" cy="364.1" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Feb 25: 53 calls</title></circle>
+<circle cx="357.5" cy="406.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Mar 4: 35 calls</title></circle>
+<circle cx="391.2" cy="319.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Mar 11: 72 calls</title></circle>
+<circle cx="388.3" cy="376.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Mar 18: 48 calls</title></circle>
+<circle cx="406.5" cy="387.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Mar 25: 43 calls</title></circle>
+<circle cx="397.5" cy="383.1" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Apr 1: 45 calls</title></circle>
+<circle cx="369.3" cy="385.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Apr 8: 44 calls</title></circle>
+<circle cx="374.6" cy="392.6" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Apr 15: 41 calls</title></circle>
+<circle cx="389.4" cy="418.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Apr 22: 30 calls</title></circle>
+<circle cx="355.5" cy="385.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Apr 29: 44 calls</title></circle>
+<circle cx="378.6" cy="404.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed May 6: 36 calls</title></circle>
+<circle cx="363.1" cy="433.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed May 13: 24 calls</title></circle>
+<circle cx="360.5" cy="368.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed May 20: 51 calls</title></circle>
+<circle cx="357.4" cy="376.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed May 27: 48 calls</title></circle>
+<circle cx="394.7" cy="390.2" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Jun 3: 42 calls</title></circle>
+<circle cx="361.1" cy="397.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Jun 10: 39 calls</title></circle>
+<circle cx="367.3" cy="390.2" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Jun 17: 42 calls</title></circle>
+<circle cx="374.8" cy="397.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Jun 24: 39 calls</title></circle>
+<circle cx="400.1" cy="361.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Jul 1: 54 calls</title></circle>
+<circle cx="358.5" cy="361.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Jul 8: 54 calls</title></circle>
+<circle cx="377.9" cy="385.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Jul 15: 44 calls</title></circle>
+<circle cx="383.2" cy="406.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Jul 22: 35 calls</title></circle>
+<circle cx="400.7" cy="392.6" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Jul 29: 41 calls</title></circle>
+<circle cx="397.3" cy="376.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Aug 5: 48 calls</title></circle>
+<circle cx="399.7" cy="364.1" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Aug 12: 53 calls</title></circle>
+<circle cx="368.9" cy="390.2" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Aug 19: 42 calls</title></circle>
+<circle cx="376.1" cy="406.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Aug 26: 35 calls</title></circle>
+<circle cx="373.2" cy="392.6" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Sep 2: 41 calls</title></circle>
+<circle cx="400.8" cy="395.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Wed Sep 9: 40 calls</title></circle>
+<text x="380.6" y="512.0" font-size="13" fill="#6B7280" text-anchor="middle">Wed</text>
+<text x="380.6" y="532.0" font-size="15" font-weight="600" fill="#111827" text-anchor="middle">43.5</text>
+<path d="M469.4,490.0V387.1Q469.4,383.1 473.4,383.1H534.6Q538.6,383.1 538.6,387.1V490.0Z" fill="#E03E1A" fill-opacity="0.16"><title>Thu: median 45 calls/day</title></path>
+<line x1="469.4" x2="538.6" y1="383.1" y2="383.1" stroke="#E03E1A" stroke-width="3" stroke-linecap="round"/>
+<circle cx="528.0" cy="361.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Feb 5: 54 calls</title></circle>
+<circle cx="485.7" cy="366.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Feb 12: 52 calls</title></circle>
+<circle cx="487.0" cy="397.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Feb 19: 39 calls</title></circle>
+<circle cx="489.9" cy="368.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Feb 26: 51 calls</title></circle>
+<circle cx="490.0" cy="354.6" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Mar 5: 57 calls</title></circle>
+<circle cx="503.2" cy="406.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Mar 12: 35 calls</title></circle>
+<circle cx="508.7" cy="406.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Mar 19: 35 calls</title></circle>
+<circle cx="491.5" cy="387.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Mar 26: 43 calls</title></circle>
+<circle cx="477.9" cy="421.1" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Apr 2: 29 calls</title></circle>
+<circle cx="499.7" cy="430.6" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Apr 9: 25 calls</title></circle>
+<circle cx="497.1" cy="376.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Apr 16: 48 calls</title></circle>
+<circle cx="507.5" cy="385.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Apr 23: 44 calls</title></circle>
+<circle cx="527.8" cy="406.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Apr 30: 35 calls</title></circle>
+<circle cx="514.0" cy="404.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu May 7: 36 calls</title></circle>
+<circle cx="504.8" cy="399.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu May 14: 38 calls</title></circle>
+<circle cx="510.2" cy="390.2" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu May 21: 42 calls</title></circle>
+<circle cx="513.3" cy="383.1" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu May 28: 45 calls</title></circle>
+<circle cx="480.6" cy="390.2" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Jun 4: 42 calls</title></circle>
+<circle cx="525.0" cy="323.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Jun 11: 70 calls</title></circle>
+<circle cx="518.7" cy="376.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Jun 18: 48 calls</title></circle>
+<circle cx="523.7" cy="392.6" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Jun 25: 41 calls</title></circle>
+<circle cx="519.6" cy="302.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Jul 2: 79 calls</title></circle>
+<circle cx="498.3" cy="392.6" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Jul 9: 41 calls</title></circle>
+<circle cx="498.7" cy="359.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Jul 16: 55 calls</title></circle>
+<circle cx="483.2" cy="368.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Jul 23: 51 calls</title></circle>
+<circle cx="511.1" cy="364.1" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Jul 30: 53 calls</title></circle>
+<circle cx="481.0" cy="395.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Aug 6: 40 calls</title></circle>
+<circle cx="481.3" cy="364.1" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Aug 13: 53 calls</title></circle>
+<circle cx="488.7" cy="269.1" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Aug 20: 93 calls</title></circle>
+<circle cx="486.3" cy="366.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Aug 27: 52 calls</title></circle>
+<circle cx="495.6" cy="376.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Sep 3: 48 calls</title></circle>
+<circle cx="480.5" cy="383.1" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Thu Sep 10: 45 calls</title></circle>
+<text x="504.0" y="512.0" font-size="13" fill="#6B7280" text-anchor="middle">Thu</text>
+<text x="504.0" y="532.0" font-size="15" font-weight="600" fill="#111827" text-anchor="middle">45</text>
+<path d="M592.9,490.0V387.1Q592.9,383.1 596.9,383.1H658.0Q662.0,383.1 662.0,387.1V490.0Z" fill="#E03E1A" fill-opacity="0.16"><title>Fri: median 45 calls/day</title></path>
+<line x1="592.9" x2="662.0" y1="383.1" y2="383.1" stroke="#E03E1A" stroke-width="3" stroke-linecap="round"/>
+<circle cx="601.2" cy="409.2" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Feb 6: 34 calls</title></circle>
+<circle cx="609.1" cy="385.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Feb 13: 44 calls</title></circle>
+<circle cx="606.5" cy="416.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Feb 20: 31 calls</title></circle>
+<circle cx="620.3" cy="395.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Feb 27: 40 calls</title></circle>
+<circle cx="602.5" cy="387.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Mar 6: 43 calls</title></circle>
+<circle cx="647.1" cy="368.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Mar 13: 51 calls</title></circle>
+<circle cx="633.4" cy="387.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Mar 20: 43 calls</title></circle>
+<circle cx="609.0" cy="361.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Mar 27: 54 calls</title></circle>
+<circle cx="614.4" cy="383.1" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Apr 3: 45 calls</title></circle>
+<circle cx="619.4" cy="366.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Apr 10: 52 calls</title></circle>
+<circle cx="620.3" cy="385.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Apr 17: 44 calls</title></circle>
+<circle cx="607.6" cy="402.1" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Apr 24: 37 calls</title></circle>
+<circle cx="645.8" cy="399.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri May 1: 38 calls</title></circle>
+<circle cx="653.3" cy="387.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri May 8: 43 calls</title></circle>
+<circle cx="625.6" cy="376.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri May 15: 48 calls</title></circle>
+<circle cx="626.6" cy="418.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri May 22: 30 calls</title></circle>
+<circle cx="605.7" cy="406.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri May 29: 35 calls</title></circle>
+<circle cx="606.5" cy="368.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Jun 5: 51 calls</title></circle>
+<circle cx="619.2" cy="383.1" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Jun 12: 45 calls</title></circle>
+<circle cx="615.1" cy="380.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Jun 19: 46 calls</title></circle>
+<circle cx="644.7" cy="368.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Jun 26: 51 calls</title></circle>
+<circle cx="609.6" cy="238.2" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Jul 3: 106 calls</title></circle>
+<circle cx="602.4" cy="366.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Jul 10: 52 calls</title></circle>
+<circle cx="651.1" cy="387.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Jul 17: 43 calls</title></circle>
+<circle cx="628.9" cy="418.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Jul 24: 30 calls</title></circle>
+<circle cx="608.9" cy="404.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Jul 31: 36 calls</title></circle>
+<circle cx="629.7" cy="200.2" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Aug 7: 122 calls</title></circle>
+<circle cx="602.6" cy="349.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Aug 14: 59 calls</title></circle>
+<circle cx="628.9" cy="378.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Aug 21: 47 calls</title></circle>
+<circle cx="652.6" cy="373.6" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Aug 28: 49 calls</title></circle>
+<circle cx="646.5" cy="366.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Sep 4: 52 calls</title></circle>
+<circle cx="637.7" cy="380.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Fri Sep 11: 46 calls</title></circle>
+<text x="627.4" y="512.0" font-size="13" fill="#6B7280" text-anchor="middle">Fri</text>
+<text x="627.4" y="532.0" font-size="15" font-weight="600" fill="#111827" text-anchor="middle">45</text>
+<path d="M716.3,490.0V388.3Q716.3,384.3 720.3,384.3H781.4Q785.4,384.3 785.4,388.3V490.0Z" fill="#E03E1A" fill-opacity="0.16"><title>Sat: median 44.5 calls/day</title></path>
+<line x1="716.3" x2="785.4" y1="384.3" y2="384.3" stroke="#E03E1A" stroke-width="3" stroke-linecap="round"/>
+<circle cx="738.3" cy="340.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Feb 7: 63 calls</title></circle>
+<circle cx="743.9" cy="378.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Feb 14: 47 calls</title></circle>
+<circle cx="733.4" cy="378.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Feb 21: 47 calls</title></circle>
+<circle cx="765.1" cy="395.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Feb 28: 40 calls</title></circle>
+<circle cx="752.6" cy="402.1" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Mar 7: 37 calls</title></circle>
+<circle cx="765.5" cy="392.6" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Mar 14: 41 calls</title></circle>
+<circle cx="741.9" cy="411.6" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Mar 21: 33 calls</title></circle>
+<circle cx="736.3" cy="411.6" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Mar 28: 33 calls</title></circle>
+<circle cx="767.2" cy="392.6" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Apr 4: 41 calls</title></circle>
+<circle cx="776.3" cy="383.1" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Apr 11: 45 calls</title></circle>
+<circle cx="769.4" cy="385.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Apr 18: 44 calls</title></circle>
+<circle cx="766.9" cy="368.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Apr 25: 51 calls</title></circle>
+<circle cx="767.6" cy="380.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat May 2: 46 calls</title></circle>
+<circle cx="763.5" cy="399.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat May 9: 38 calls</title></circle>
+<circle cx="736.5" cy="383.1" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat May 16: 45 calls</title></circle>
+<circle cx="751.8" cy="437.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat May 23: 22 calls</title></circle>
+<circle cx="743.3" cy="385.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat May 30: 44 calls</title></circle>
+<circle cx="726.1" cy="309.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Jun 6: 76 calls</title></circle>
+<circle cx="726.1" cy="342.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Jun 13: 62 calls</title></circle>
+<circle cx="739.3" cy="364.1" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Jun 20: 53 calls</title></circle>
+<circle cx="738.2" cy="404.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Jun 27: 36 calls</title></circle>
+<circle cx="761.0" cy="278.6" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Jul 4: 89 calls</title></circle>
+<circle cx="774.8" cy="397.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Jul 11: 39 calls</title></circle>
+<circle cx="748.1" cy="140.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Jul 18: 147 calls</title></circle>
+<text x="757.1" y="144.9" font-size="12" fill="#6B7280">Jul 18 · 147</text>
+<circle cx="773.8" cy="399.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Jul 25: 38 calls</title></circle>
+<circle cx="776.5" cy="397.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Aug 1: 39 calls</title></circle>
+<circle cx="774.8" cy="352.2" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Aug 8: 58 calls</title></circle>
+<circle cx="743.7" cy="361.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Aug 15: 54 calls</title></circle>
+<circle cx="736.2" cy="392.6" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Aug 22: 41 calls</title></circle>
+<circle cx="736.5" cy="383.1" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Aug 29: 45 calls</title></circle>
+<circle cx="734.9" cy="373.6" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Sep 5: 49 calls</title></circle>
+<circle cx="735.3" cy="404.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sat Sep 12: 36 calls</title></circle>
+<text x="750.9" y="512.0" font-size="13" fill="#6B7280" text-anchor="middle">Sat</text>
+<text x="750.9" y="532.0" font-size="15" font-weight="600" fill="#111827" text-anchor="middle">44.5</text>
+<path d="M839.7,490.0V391.9Q839.7,387.9 843.7,387.9H904.8Q908.8,387.9 908.8,391.9V490.0Z" fill="#E03E1A" fill-opacity="0.16"><title>Sun: median 43 calls/day</title></path>
+<line x1="839.7" x2="908.8" y1="387.9" y2="387.9" stroke="#E03E1A" stroke-width="3" stroke-linecap="round"/>
+<circle cx="880.8" cy="357.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Feb 1: 56 calls</title></circle>
+<circle cx="895.3" cy="266.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Feb 8: 94 calls</title></circle>
+<circle cx="892.2" cy="385.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Feb 15: 44 calls</title></circle>
+<circle cx="873.2" cy="323.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Feb 22: 70 calls</title></circle>
+<circle cx="882.3" cy="390.2" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Mar 1: 42 calls</title></circle>
+<circle cx="890.0" cy="373.6" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Mar 8: 49 calls</title></circle>
+<circle cx="852.5" cy="399.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Mar 15: 38 calls</title></circle>
+<circle cx="882.7" cy="378.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Mar 22: 47 calls</title></circle>
+<circle cx="895.8" cy="399.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Mar 29: 38 calls</title></circle>
+<circle cx="889.1" cy="402.1" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Apr 5: 37 calls</title></circle>
+<circle cx="887.4" cy="414.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Apr 12: 32 calls</title></circle>
+<circle cx="873.1" cy="402.1" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Apr 19: 37 calls</title></circle>
+<circle cx="857.4" cy="378.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Apr 26: 47 calls</title></circle>
+<circle cx="889.5" cy="402.1" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun May 3: 37 calls</title></circle>
+<circle cx="865.5" cy="383.1" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun May 10: 45 calls</title></circle>
+<circle cx="890.1" cy="380.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun May 17: 46 calls</title></circle>
+<circle cx="899.1" cy="385.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun May 24: 44 calls</title></circle>
+<circle cx="868.8" cy="378.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun May 31: 47 calls</title></circle>
+<circle cx="869.1" cy="338.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Jun 7: 64 calls</title></circle>
+<circle cx="897.8" cy="371.2" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Jun 14: 50 calls</title></circle>
+<circle cx="886.1" cy="392.6" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Jun 21: 41 calls</title></circle>
+<circle cx="857.0" cy="421.1" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Jun 28: 29 calls</title></circle>
+<circle cx="854.7" cy="352.2" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Jul 5: 58 calls</title></circle>
+<circle cx="856.0" cy="395.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Jul 12: 40 calls</title></circle>
+<circle cx="895.6" cy="409.2" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Jul 19: 34 calls</title></circle>
+<circle cx="890.4" cy="411.6" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Jul 26: 33 calls</title></circle>
+<circle cx="855.7" cy="387.9" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Aug 2: 43 calls</title></circle>
+<circle cx="891.4" cy="376.0" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Aug 9: 48 calls</title></circle>
+<circle cx="899.5" cy="404.5" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Aug 16: 36 calls</title></circle>
+<circle cx="882.5" cy="380.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Aug 23: 46 calls</title></circle>
+<circle cx="866.4" cy="411.6" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Aug 30: 33 calls</title></circle>
+<circle cx="876.8" cy="416.4" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Sep 6: 31 calls</title></circle>
+<circle cx="854.9" cy="418.8" r="4" fill="#F2A08A" fill-opacity="0.85" stroke="#FFFFFF" stroke-width="1"><title>Sun Sep 13: 30 calls</title></circle>
+<text x="874.3" y="512.0" font-size="13" fill="#6B7280" text-anchor="middle">Sun</text>
+<text x="874.3" y="532.0" font-size="15" font-weight="600" fill="#111827" text-anchor="middle">43</text>
+<text x="72" y="564" font-size="12" fill="#6B7280">Times use call_create read as local clock time (offset-corrected).</text>
+</svg>

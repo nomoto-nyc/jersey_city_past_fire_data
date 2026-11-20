@@ -1,0 +1,3009 @@
+{
+  "source": "/Users/adriankombe/jersey_city_past_fire_data/internal/public_safety_budget_hearing_2026-08-27.json",
+  "source_video": "https://www.youtube.com/watch?v=4EATL06XP6s",
+  "methodology": [
+    "Manual semantic coding of all 739 segments, not question-mark matching. These are analyst-coded counts of the supplied excerpt, not certified whole-hearing/video counts.",
+    "A question is one distinct answerable information prompt. Requests phrased as explain/speak to/confirm and meaningful implied questions count. Multiple independent subquestions in one turn count separately; paraphrases of the same prompt before an answer count once. A repeated question after an inadequate answer counts again.",
+    "Pure document/data-delivery requests are listed separately. All information requests equals substantive spoken questions plus document requests. Requests for permission to speak, audio checks, roll call, adjournment, officials clarifying what a council member means, rhetorical questions, and unaccepted policy suggestions are excluded.",
+    "A follow-up develops a topic already raised in this excerpt, including a later council member following the earlier exchange. It does not automatically include a reference to a prior hearing. Follow-up is a subset, not an additional count.",
+    "Direct means the response supplies the requested information or a definite yes/no/correction. Partial means relevant information without resolving the entire prompt. Deferred means checking or returning later is the primary disposition. Direct does not mean independently verified or correct.",
+    "PS identifies Public Safety leadership/division presenters inferred from context. Finance, Business Administrator, council, and uncertain administrators are separately coded. No person-specific attribution is certified because the JSON has no speaker labels.",
+    "Follow-up commitments count distinct topic-response episodes, not each repetition of get back to you. Promises to investigate count even if prompted by a service complaint rather than an information question. Hearing-order postponements, handoffs to a colleague currently present, document requests without assent, and internal future operational work do not count as promised follow-up to council.",
+    "Explicit uncertainty includes stated inability to answer, needing to check factual alternatives, and clearly uncertain estimates. Additional hedge episodes include I believe, I think, to my knowledge, tentative recall, and visibly corrected estimates. Ordinary approximately/around alone does not count. One episode may combine hedged and explicit wording but is counted only in the explicit category.",
+    "Certainty cannot be measured as a mental state. Unqualified direct question answers and emphatic certainty episodes are two different observable proxies. Emphatic certainty excludes promises such as definitely get back to you and ordinary yes/correct responses. These proxies must not be added together.",
+    "The transcript begins mid-answer at 00:00:02. Opening questions and earlier presentation are absent. Several lines refer to August 6 and an upcoming August 21 despite the August 27 filename; this audit retains the supplied file label without independently establishing the meeting date."
+  ],
+  "counts": {
+    "all_information_requests": 111,
+    "spoken_substantive_questions": 99,
+    "document_requests": 12,
+    "follow_up_information_requests": 78,
+    "follow_up_spoken_questions": 68,
+    "follow_up_document_requests": 10,
+    "PS_question_outcomes": {
+      "direct": 40,
+      "partial": 26,
+      "deferred": 5,
+      "unanswered": 2
+    },
+    "PS_all_request_outcomes": {
+      "direct": 41,
+      "partial": 27,
+      "deferred": 7,
+      "unanswered": 6
+    },
+    "PS_direct_answer_requests": 41,
+    "PS_direct_answers_note": "Counted per information request resolved, not per sentence or unique speaker turn; some responses answer multiple prompts.",
+    "PS_partial_questions_including_mixed_replies": 29,
+    "PS_unqualified_direct_question_answers": 36,
+    "PS_explicit_follow_up_episodes": 8,
+    "other_office_follow_up_episodes": 6,
+    "uncertain_office_follow_up_episodes": 1,
+    "PS_explicit_uncertainty_episodes": 9,
+    "uncertain_attribution_uncertainty_episodes": 1,
+    "PS_additional_hedged_episodes": 11,
+    "PS_emphatic_certainty_episodes": 5
+  },
+  "questions": [
+    {
+      "id": "Q001",
+      "timestamp": "00:01:05",
+      "question_segment_ids": [
+        8
+      ],
+      "topic": "UASI",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "Is $1.5 million per year or spread over the grant term?",
+      "response_segment_ids": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "And just to clarify, it would be 1.5 million that we have to use over a three-year period or it's 1.5 million every year for three years.",
+      "response_excerpt": "1.5 million every year, every grant cycle. And so we're waiting on we're waiting to come into the 2026. So if according to plan and there again a lot of this has been held up based on litigation on between the state and the federal grant program whatever reason I'm not quite sure um but we will be as a matter of fact on this on August 21st I'll be with the executive board meeting with um the subcommittees of our organization uh fire law enforcement seaburn things of that nature to determine what projects will be covered for additional funding. So, this is the base core money that comes in that handles a lot of our operations center. It handles a lot of our maintenance projects for our camera systems and things of that nature. Anything that was associated originally paid for by the urban area security initiative funding, [snorts] they pay to sustain that. So, there's certain things that obviously we'll be able to move forward with our active shooter training and things of that. Director Ambrose has certain type of training he wants to initiate. I'm quite sure we'll be able to pay for that through the the grant."
+    },
+    {
+      "id": "Q002",
+      "timestamp": "00:02:42",
+      "question_segment_ids": [
+        21,
+        22
+      ],
+      "topic": "UASI",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "What does the OEM grant offset include?",
+      "response_segment_ids": [
+        22
+      ],
+      "respondent": "uncertain_admin",
+      "outcome": "other_office",
+      "confidence": "not_applicable",
+      "question_excerpt": "Okay. So then with that being said, when I see the grant offset within the OEM budget confirmed grant that we have, not the 1.5 million that director is talking about.",
+      "response_excerpt": "within the OEM budget confirmed grant that we have, not the 1.5 million that director is talking about."
+    },
+    {
+      "id": "Q003",
+      "timestamp": "00:02:57",
+      "question_segment_ids": [
+        23
+      ],
+      "topic": "UASI",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Is the grant money already in the budget separate from the litigated funds?",
+      "response_segment_ids": [
+        24
+      ],
+      "respondent": "uncertain_admin",
+      "outcome": "other_office",
+      "confidence": "not_applicable",
+      "question_excerpt": "I Okay, I appreciate that. So none of the UASI grant money already baked in here is what's held up in litigation.",
+      "response_excerpt": "That is money we already have. Okay, thank you for the clarification."
+    },
+    {
+      "id": "Q004",
+      "timestamp": "00:03:09",
+      "question_segment_ids": [
+        25,
+        26
+      ],
+      "topic": "range",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "How much compensation does the range receive?",
+      "response_segment_ids": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "unqualified",
+      "question_excerpt": "director, if you can speak to the um compensation we receive from uh the gun range and how those funds are utilized. Um so the gun range as I understand it uh different municipalities use it for training.",
+      "response_excerpt": "Certainly council we as you see many of our associated maintenance items are associated with the pistol range training training that's also comes onto our office. Um obviously one of the things that um it's critical in in the operation of that range is make ensuring that all the filtration systems the HVAC systems and things like that are uh providing and working properly. Um we presently have seven outside agency police departments that's utilizing the range for a fee. Uh we have anou and that'll is waiting to be signed with the Port Authority Police that'll be bringing in an additional $200,000 per year uh to for them to utilize the range. It will they will be operating the range or working at the range during the off cycle for us which is on the evening tour right now. We don't do evening qualifications. So it'll be utilized in the downtime. So a lot of that funding that we receive will offset the budget required budget to pay for it."
+    },
+    {
+      "id": "Q005",
+      "timestamp": "00:03:09",
+      "question_segment_ids": [
+        25,
+        26
+      ],
+      "topic": "range",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "How are the range receipts used?",
+      "response_segment_ids": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "director, if you can speak to the um compensation we receive from uh the gun range and how those funds are utilized. Um so the gun range as I understand it uh different municipalities use it for training.",
+      "response_excerpt": "Certainly council we as you see many of our associated maintenance items are associated with the pistol range training training that's also comes onto our office. Um obviously one of the things that um it's critical in in the operation of that range is make ensuring that all the filtration systems the HVAC systems and things like that are uh providing and working properly. Um we presently have seven outside agency police departments that's utilizing the range for a fee. Uh we have anou and that'll is waiting to be signed with the Port Authority Police that'll be bringing in an additional $200,000 per year uh to for them to utilize the range. It will they will be operating the range or working at the range during the off cycle for us which is on the evening tour right now. We don't do evening qualifications. So it'll be utilized in the downtime. So a lot of that funding that we receive will offset the budget required budget to pay for it."
+    },
+    {
+      "id": "Q006",
+      "timestamp": "00:04:22",
+      "question_segment_ids": [
+        35
+      ],
+      "topic": "range",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Does most or all range revenue return to that division?",
+      "response_segment_ids": [
+        36
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "Okay. So most of the funding or if not all of the funding goes back into that department or that division.",
+      "response_excerpt": "Correct. Yeah. Yes."
+    },
+    {
+      "id": "Q007",
+      "timestamp": "00:04:53",
+      "question_segment_ids": [
+        39,
+        40,
+        41,
+        42
+      ],
+      "topic": "range",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "How much daily instruction do the three full-time instructors provide?",
+      "response_segment_ids": [
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "qualified",
+      "question_excerpt": "sorry. Um, just to piggyback off of what Councilman Gilmore was asking about with the with the range. I see there's three full-time range instructors coming into this meeting. I was, you know, questioning um, you know, how much instruction was taking place on a daily basis, but it sounds like if there's seven different outside agencies using the range, there probably is quite a bit. Um, can you speak to how much? Um, so there's three instructors, they're all full-time. Can you speak to how much instruction is taking place on daily basis? How many hours of instruction?",
+      "response_excerpt": "Well, we're mandated by um the Division of Criminal Justice and the Police Training Commission, our police officers have to train twice a year, physically qualify with their weapons twice a year. So, our present numbers, which are around 750 some odd officers, um it it takes virtually, I would say, three three months, chief, six months to go through the entire first cycle. And by the time they finished the first cycle, they're ready to start the second cycle. So what we've been utilizing, especially in in between in the downtimes is bringing in other departments. For instance, Union City, uh Guttenberg, WeH Hawin, uh Stevens Institute Police, and uh they're utilizing they have the capabilities. We have a graduating scale where if they just want to come in and use the range, they bring their own instructors there. We have our lead instructor on site just to protect the respond to make sure the responsibilities are being met on on our end and their end. Um we also have the capabilities to allow them to use our uh different training rooms if that's the case and there's an additional fee that's a charge that's associated with the port authority at this point will just be utilizing the range. However, if in fact they decide they want to use the active shooter scenario uh training and things like that, that would be for an additional fee."
+    },
+    {
+      "id": "Q008",
+      "timestamp": "00:06:43",
+      "question_segment_ids": [
+        52,
+        53
+      ],
+      "topic": "range",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Does the range generate revenue in addition to meeting training requirements?",
+      "response_segment_ids": [
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "Okay. Thank you so much. So, so this is essentially a revenue generator for the city then because of all the outside agencies paying to use the range in addition. So, in addition to fulfilling our statutory requirement, this is a revenue generator for the city because the other municipalities and agencies are paying to",
+      "response_excerpt": "Yeah. And and and just if I can let Deputy Director Hart, we also have a tremendous amount of training for our fire uh personnel at the range. Uh I would I would ask if you would like to come down and see it, we'll be happy to give you a tour. We have basically set up classrooms for police and fire operations on about the building. We also have the simulator room that's used by our our folks in training. We also have the physical training room where they get into defensive tactics, unarmed, less lethal type operations. And then you have the two ranges itself. Uh we also have an agreement with the Hudson County training academy that our our members attend the training academy with the understanding that they utilize our range as their firing range. Okay. Thank you."
+    },
+    {
+      "id": "Q009",
+      "timestamp": "00:07:51",
+      "question_segment_ids": [
+        61,
+        62,
+        63
+      ],
+      "topic": "range",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "How much did outside certification/training cost before the range opened?",
+      "response_segment_ids": [
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "unqualified",
+      "question_excerpt": "More along those lines. So you spoke about the revenue. There's also a cost-saving mechanism built in. If you can speak to how much it would have or how much it cost us in the past to send our officers to be um to make sure they're on pace with the certification that's required. That's Yeah, that's a good point.",
+      "response_excerpt": "council the the training mandated by the the police training commission and the division of criminal justice uh basically it increases pretty much monthly. you know there's diff as scenarios arise where they feel uh it may require a different level of training um then it'll be mandated and obviously you know with the size of our department um it's a challenge previously without having this facility u we initially opened this facility with the uh we stayed within budget when we built it um what happened what prompted it was that the previous range that we had located down at the old public savers property um they asked us to vacate and we were lit literally without a range for our people to qualify in. Um we had went to uh and there again I remember the vote on the council. You voted in favor of that as did many of the other council people um that it was uh it kind of put us on the map for a training facilities 32,000 square ft um with state-of-the-art equipment. As I say, one of the things in in fact is the firearm simulator which walks our officers through various uh type of simulations that they could they would encounter on the street. Um, and it's it's a training training piece. But, uh, to your point, prior to having this capability,"
+    },
+    {
+      "id": "Q010",
+      "timestamp": "00:12:41",
+      "question_segment_ids": [
+        99,
+        100
+      ],
+      "topic": "salary",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "Why are Jersey City police salaries higher than Newark's?",
+      "response_segment_ids": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "qualified",
+      "question_excerpt": "just want you to talk about it. Why Newark cops are getting the salary of for Jersey City cops is higher than Newark cops. What is the reason? Just want to understand if you can talk about it.",
+      "response_excerpt": "You are you saying the salaries for Jersey City cops are higher? Yes. Than than New York. Yeah. Uh I don't think so. Yeah. No, I I spent a long time in NORC. That's the reason I'm asking you. No, I don't think so. I think you got bad information. So, I'm going to share the research we have done and then just it would be great if you can get back to us on that. Yeah, if you send me that and I'll definitely uh but I I believe that uh NORC is higher paid than Jersey City. Uh I believe even the start pay is higher. I believe there's more steps in Jersey City, but I will get to the use information and I would show you and Jersey City."
+    },
+    {
+      "id": "Q011",
+      "timestamp": "00:13:14",
+      "question_segment_ids": [
+        104
+      ],
+      "topic": "salary",
+      "kind": "document",
+      "follow_up": true,
+      "question_paraphrase": "Review our salary comparison and get back to us.",
+      "response_segment_ids": [
+        105,
+        106
+      ],
+      "respondent": "PS",
+      "outcome": "deferred",
+      "confidence": "qualified",
+      "question_excerpt": "So, I'm going to share the research we have done and then just it would be great if you can get back to us on that.",
+      "response_excerpt": "Yeah, if you send me that and I'll definitely uh but I I believe that uh NORC is higher paid than Jersey City. Uh I believe even the start pay is higher. I believe there's more steps in Jersey City, but I will get to the use information and I would show you and Jersey City."
+    },
+    {
+      "id": "Q012",
+      "timestamp": "00:13:49",
+      "question_segment_ids": [
+        109,
+        110
+      ],
+      "topic": "holiday_pay",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "Explain the holiday and compensation-time line.",
+      "response_segment_ids": [
+        111,
+        112,
+        113,
+        114,
+        115
+      ],
+      "respondent": "PS",
+      "outcome": "deferred",
+      "confidence": "unknown",
+      "question_excerpt": "Perfect. Thank you, Miss Choy. Um, director, can you talk about I just want to uh know more about this uh line item holiday and compensation time? Do you mind talking more about it?",
+      "response_excerpt": "I'm going to I'm going to start and then I'm going to give it to my chief. Which are we in? Thank you. What? I'm sorry. Which division? Oh, I'm talking about public safety. There's a public safety police. Sorry, I don't have my laptop. Um, hey. Um, yeah, Ma, where we're where on OEM right now? Have my laptop today. So, I am relying on my notes. So, I think you're in police. Yeah, we we can come back to that. Okay. Thank you, director."
+    },
+    {
+      "id": "Q013",
+      "timestamp": "00:15:03",
+      "question_segment_ids": [
+        118,
+        119,
+        120
+      ],
+      "topic": "range",
+      "kind": "document",
+      "follow_up": true,
+      "question_paraphrase": "Provide where range revenue appears in the budget.",
+      "response_segment_ids": [],
+      "respondent": "finance_BA",
+      "outcome": "unanswered",
+      "confidence": "not_applicable",
+      "question_excerpt": "the range, the shooting range. Um and this is more directly I guess a question just so that it's revenue is being generated from other towns and jurisdictions using our range if the BA if finance could provide us information as to where that revenue resides in this budget.",
+      "response_excerpt": ""
+    },
+    {
+      "id": "Q014",
+      "timestamp": "00:15:25",
+      "question_segment_ids": [
+        121,
+        122
+      ],
+      "topic": "UASI",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "What salary/administration amount is permitted under UASI?",
+      "response_segment_ids": [
+        123
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "unqualified",
+      "question_excerpt": "Um and then just staying with the US uh UASI um as a salary offset for your salary. That's correct. um what is the allowable amount uh from UASI that can be used towards salary and administration in that in that regard?",
+      "response_excerpt": "In this particular instance, it's the salary associated with the position I hold $81,500."
+    },
+    {
+      "id": "Q015",
+      "timestamp": "00:15:47",
+      "question_segment_ids": [
+        124,
+        125,
+        126,
+        127,
+        128
+      ],
+      "topic": "UASI",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "What is the grant's upper limit for salaries/administration, rather than the current salary?",
+      "response_segment_ids": [
+        128,
+        129,
+        130,
+        131
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "unqualified",
+      "question_excerpt": "What I'm asking is what does the grant allow as for example um for community development block grant funding from HUD? um they allow up to 20% I believe to be utilized for administration administrative costs including salaries um is that a permissible I don't know how the UAS grant is structured in terms of what the restrictions are um but I was under the impression that salaries were not permitted but it's um I'm glad to hear it is so it's if you could give me some idea as to what what the upper limit is on use of salary the salaries that are authorized are for the two city risk the two that there are",
+      "response_excerpt": "limit is on use of salary the salaries that are authorized are for the two city risk the two that there are seven counties in the UASI. Each one of them is entitled to hire a risk mitigation planner and the salary is comparable to the domestic preparedness planner which are positions that are held both in Jersey City and NORC. Those are the only salaries that are authorized by the UASI grant. So it's specific specific positions."
+    },
+    {
+      "id": "Q016",
+      "timestamp": "00:16:45",
+      "question_segment_ids": [
+        131
+      ],
+      "topic": "UASI",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Is eligibility restricted to specific positions?",
+      "response_segment_ids": [
+        132
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "authorized by the UASI grant. So it's specific specific positions.",
+      "response_excerpt": "Correct. And and does it cap the amount that can be utilized towards that? 81,500. 81,500 is the allowable amount."
+    },
+    {
+      "id": "Q017",
+      "timestamp": "00:16:50",
+      "question_segment_ids": [
+        132
+      ],
+      "topic": "UASI",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Is there a dollar cap on the eligible salary?",
+      "response_segment_ids": [
+        132,
+        133
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "Correct. And and does it cap the amount that can be utilized towards that? 81,500. 81,500 is the allowable amount.",
+      "response_excerpt": "Correct. And and does it cap the amount that can be utilized towards that? 81,500. 81,500 is the allowable amount. Yes. Okay."
+    },
+    {
+      "id": "Q018",
+      "timestamp": "00:16:59",
+      "question_segment_ids": [
+        134
+      ],
+      "topic": "UASI",
+      "kind": "document",
+      "follow_up": true,
+      "question_paraphrase": "Provide documentation of the salary cap and restrictions.",
+      "response_segment_ids": [],
+      "respondent": "PS",
+      "outcome": "unanswered",
+      "confidence": "not_applicable",
+      "question_excerpt": "If I could just get the documentation supporting that um those numbers um and those restrictions, I appreciate that.",
+      "response_excerpt": ""
+    },
+    {
+      "id": "Q019",
+      "timestamp": "00:17:06",
+      "question_segment_ids": [
+        135,
+        136,
+        137
+      ],
+      "topic": "OEM_302",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "Explain the new communications line 302.",
+      "response_segment_ids": [
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "Um I want to just turn to other expenses. Um line 302, communications. Um this is a new line item. Nothing was allocated in 2025. the notation says mobile command post emergency op center. If you could just speak to that.",
+      "response_excerpt": "Well, unfortunately many of the grant guidance has changed over the years. The mobile communications trucks truck communications trust is an extension of the emergency operations center where all information flows into for dissemination amongst all of the support agencies. Um, unfortunately the feds have changed not only this but several other things and this has been during this last administration. Uh, it was previously covered under the grant. Uh, it is no longer covered under the grant. In this case, we pay for obviously the operation of the communications vehicle which has also the camera systems on site that we can pull real-time video from the truck and send that to the operation center. It also covers our two uh community service vehicle and also the metropolitan response vehicle, our mass care ambulance um and any of the other associated vehicles with a communication equipment that feeds back into the operation center. Um as I say, the guidance has changed. We've expressed our concerns about that, but until there are changes, there's been a a dramatic change as to the use of not only the YASI grant, but other grants in general um with this administration. Why? I don't know. But there again, it's it's constant litigation back and forth."
+    },
+    {
+      "id": "Q020",
+      "timestamp": "00:18:47",
+      "question_segment_ids": [
+        149
+      ],
+      "topic": "OEM_302",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "By administration do you mean the federal administration?",
+      "response_segment_ids": [
+        149
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "The administration you're referring to is the federal administration, correct? Yeah.",
+      "response_excerpt": "The administration you're referring to is the federal administration, correct? Yeah."
+    },
+    {
+      "id": "Q021",
+      "timestamp": "00:18:51",
+      "question_segment_ids": [
+        150,
+        151
+      ],
+      "topic": "OEM_310",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Is maintenance/repairs line 310 another formerly grant-funded expense?",
+      "response_segment_ids": [
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "unqualified",
+      "question_excerpt": "Um just for the record for the public to know that. Um so, so is that the same case for the 310 line maintenance and repairs? Again, nothing was allocated in 25. Um, but in 26, it's $33,000,000",
+      "response_excerpt": "on the maintenance repairs. That's primarily associated with the uh training facility and the range range itself. It's correct. Mains repairs for that facility. Correct. Okay. Um, and there's some other things too. The kief had just advised me. Uh we also maintain the majority of the equipment through the emergency services unit. When it comes to the um IED equipment, the emergency response for explosive devices, all of our bomb trained technicians are members of what they call the render safe task force, which is under the opices of state police. Um they paid for probably 90% of the equipment, including the uh the big mobile command bus and things of that nature, and they support that yearly. That's that's a uh um yearly uh project that's uh that's covered. Okay."
+    },
+    {
+      "id": "Q022",
+      "timestamp": "00:19:14",
+      "question_segment_ids": [
+        153
+      ],
+      "topic": "OEM_310",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Is this maintenance for the range facility?",
+      "response_segment_ids": [
+        153
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "Mains repairs for that facility. Correct.",
+      "response_excerpt": "Mains repairs for that facility. Correct."
+    },
+    {
+      "id": "Q023",
+      "timestamp": "00:20:02",
+      "question_segment_ids": [
+        160,
+        161,
+        162
+      ],
+      "topic": "OEM_302",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Were the mobile-command expenses previously covered by UASI?",
+      "response_segment_ids": [
+        163
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "Also training and pay for their their training. Right. So so just coming back to 302. Um so the mobile command post uh emergency op center was previously these expenses were previously covered under under under the UASI grant under UASI but not not anymore.",
+      "response_excerpt": "No longer covered. So, we're picking it up in our in our current budget."
+    },
+    {
+      "id": "Q024",
+      "timestamp": "00:20:22",
+      "question_segment_ids": [
+        163
+      ],
+      "topic": "OEM_302",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Is the current city budget now covering those expenses?",
+      "response_segment_ids": [
+        164,
+        165,
+        166,
+        167,
+        168,
+        169
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "No longer covered. So, we're picking it up in our in our current budget.",
+      "response_excerpt": "Yeah. It's to maintain connectivity for any of our big events. We operate a command post, a unified command post, which brings in all different agencies. And I'll go back to the July 4th event. We had probably over 20 different outside agencies in direct communication where we were be able to monitor any events that were coming through not only on the July 4th, but obviously the op sale. Uh I'm happy to report that we had no incidents. Communication was not an issue. It also supports our fire department when they're going on out of town mutual aid. There's different interoperability channels that we were able to provide based on the UASI grants. Right now we have to support that case."
+    },
+    {
+      "id": "Q025",
+      "timestamp": "00:21:08",
+      "question_segment_ids": [
+        170
+      ],
+      "topic": "OEM_302",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Does the communications funding pay for a contract?",
+      "response_segment_ids": [
+        171,
+        172,
+        173,
+        174
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "So that that funding is financing or um funding a contract of some sort.",
+      "response_excerpt": "No, it's basically equipment equipment. Some could be a a contract like for instance servicing of our our arm robots something like that nature would come in your yearly service contract for upgrades software upgrades many many upgrades are required to keep the um communications capable of res of of uh providing this service. So to answer your question, some of them are contracts because um zero dollars that have been spent year to date uh as of July 21st"
+    },
+    {
+      "id": "Q026",
+      "timestamp": "00:21:38",
+      "question_segment_ids": [
+        174,
+        175,
+        176,
+        177,
+        178,
+        179
+      ],
+      "topic": "OEM_302",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "What is the $30,000 paying for given zero spending reported to date?",
+      "response_segment_ids": [
+        180,
+        181,
+        182
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "unqualified",
+      "question_excerpt": "answer your question, some of them are contracts because um zero dollars that have been spent year to date uh as of July 21st according to finances records. So I'm I'm just trying to understand what what it is we're spending the money on, right? July 4th, you mean? Is that sir? July 4th. You're talking about the July 4th event. No, no. I'm saying for this line 302 communications, it's budgeted for $30,000, right? we can get that from what you've explained to me is this used to be funded by UASI. Um it's no longer being funded by UASI and so there's $30,000 is is in the current budget um on the operating side of the budget and 0 have been spent as of July 21st. We would",
+      "response_excerpt": "normally spend approximately 17 between 17 and $18,000 on the wireless connectivity. Uh there again that was previously covered under UASI which is no longer right. So, so there's connectivity. So, the the there's a contract that comes with that connectivity or Yes. Verizon. Verizon. Correct."
+    },
+    {
+      "id": "Q027",
+      "timestamp": "00:22:31",
+      "question_segment_ids": [
+        181,
+        182
+      ],
+      "topic": "OEM_302",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Is there a contract for the wireless connectivity?",
+      "response_segment_ids": [
+        182
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "again that was previously covered under UASI which is no longer right. So, so there's connectivity. So, the the there's a contract that comes with that connectivity or Yes. Verizon. Verizon. Correct.",
+      "response_excerpt": "with that connectivity or Yes. Verizon. Verizon. Correct."
+    },
+    {
+      "id": "Q028",
+      "timestamp": "00:22:43",
+      "question_segment_ids": [
+        183
+      ],
+      "topic": "OEM_302",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Is that contract currently active?",
+      "response_segment_ids": [
+        183
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "Okay. Could Could I get a um is there an active contract currently? Yes.",
+      "response_excerpt": "Okay. Could Could I get a um is there an active contract currently? Yes."
+    },
+    {
+      "id": "Q029",
+      "timestamp": "00:22:47",
+      "question_segment_ids": [
+        184
+      ],
+      "topic": "OEM_302",
+      "kind": "document",
+      "follow_up": true,
+      "question_paraphrase": "Provide the contract and annual spending since 2022.",
+      "response_segment_ids": [],
+      "respondent": "PS",
+      "outcome": "unanswered",
+      "confidence": "not_applicable",
+      "question_excerpt": "If I can get a copy of that contract and the spend on those contracts for the last going back to 2022, the annual spend on each of those contracts.",
+      "response_excerpt": ""
+    },
+    {
+      "id": "Q030",
+      "timestamp": "00:22:59",
+      "question_segment_ids": [
+        185,
+        186,
+        187
+      ],
+      "topic": "OEM_214",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "Explain the new $2,500 line 214 without a justification.",
+      "response_segment_ids": [
+        187,
+        188,
+        189,
+        190
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "Um I just want to move if I may continue line 214. Um again um 214 uh that was not is this also it's only $2,500 but nothing was budgeted in 25 now budgeting for 25 and 26. What's the There's no justification or comment for the that would be for uh for instance",
+      "response_excerpt": "now budgeting for 25 and 26. What's the There's no justification or comment for the that would be for uh for instance associated with the range once again. Um there are certain like lead lead collecting mats that we utilize for officers coming in out of the range to limit the amount of lead that's coming through the building. uh cleaning supplies that are necessary to ensure that uh if any of the officers have any uh contamination to their hands as a result of shooting, we offer them uh cleaning uh materials where they can clean their hands, things of that nature."
+    },
+    {
+      "id": "Q031",
+      "timestamp": "00:23:50",
+      "question_segment_ids": [
+        191
+      ],
+      "topic": "OEM_214",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Is it a new item or was it previously funded elsewhere?",
+      "response_segment_ids": [
+        192
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "So So unlike the um the communications line, this is just an entirely new item or is it was it previously funded under something else?",
+      "response_excerpt": "It's a new item. It's a new item. Okay."
+    },
+    {
+      "id": "Q032",
+      "timestamp": "00:24:01",
+      "question_segment_ids": [
+        193,
+        194,
+        195
+      ],
+      "topic": "OEM_214",
+      "kind": "document",
+      "follow_up": true,
+      "question_paraphrase": "Provide support/a breakdown for the request.",
+      "response_segment_ids": [
+        194,
+        195,
+        196,
+        197
+      ],
+      "respondent": "PS",
+      "outcome": "deferred",
+      "confidence": "unknown",
+      "question_excerpt": "Again, zero spent to date. So, right, it needs something um you're you're budgeting for it. Uh you're looking to to spend some money on some range related costs. Uh we can do a breakdown. I need something supporting that that that request. Um if line 210,",
+      "response_excerpt": "to spend some money on some range related costs. Uh we can do a breakdown. I need something supporting that that that request. Um if line 210, parts and supplies council for um that line item, we have an open encumbrance. Under encumbrance. Okay. for the full 2500."
+    },
+    {
+      "id": "Q033",
+      "timestamp": "00:24:38",
+      "question_segment_ids": [
+        198,
+        199,
+        200,
+        201,
+        202,
+        203
+      ],
+      "topic": "OEM_210",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "Explain the parts-and-supplies increase given low expenditure.",
+      "response_segment_ids": [
+        204,
+        205,
+        206,
+        207,
+        208
+      ],
+      "respondent": "PS_then_finance",
+      "outcome": "partial",
+      "confidence": "unqualified",
+      "question_excerpt": "Um and then my last question on OEM a line 210 parts and supplies um budgeted um let's just see 3,000 um in 2025 and in 2026 we have a budget of 4500 um for that unless I'm Yeah. I'm sorry, was 7,500. It's increased uh by 4,500. Um and to date, my records indicate uh from finance that um well, first of all, zero was spent in 2025. Zero dollars were spent and to date $588 have been spent.",
+      "response_excerpt": "The parts we're talking about are directly related to the the training range center. obviously filters and things of that nature. We can get you a breakdown of what was spent and the approximate costs. Yeah. And if I may, there we have uh two open encumbrances for $6,900. Take him for that line item. We have spent $587.94. We also have two open incumbrances for 6,900 and change."
+    },
+    {
+      "id": "Q034",
+      "timestamp": "00:25:55",
+      "question_segment_ids": [
+        209
+      ],
+      "topic": "OEM_210",
+      "kind": "document",
+      "follow_up": true,
+      "question_paraphrase": "Provide copies/details of the open encumbrances.",
+      "response_segment_ids": [],
+      "respondent": "PS",
+      "outcome": "unanswered",
+      "confidence": "not_applicable",
+      "question_excerpt": "Okay, if I can get a copy of those incumbrances and um testing to the incumbrance of that.",
+      "response_excerpt": ""
+    },
+    {
+      "id": "Q035",
+      "timestamp": "00:26:10",
+      "question_segment_ids": [
+        212,
+        213,
+        214,
+        215
+      ],
+      "topic": "video_sharing",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Confirm video is not shared with immigration enforcement except under the specified judicial-warrant conditions.",
+      "response_segment_ids": [
+        215,
+        216,
+        217
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "Thank you so much. Um you mentioned um real time video and um and grants and coordination with the federal administration. Um, I just wanted to confirm that none of this video information was being shared with immigration enforcement. Um, unless a judicial warrant signed by a judge was presented, uh, as per the mayor's executive orders in 2017 and 2026, are in full compliance with those orders.",
+      "response_excerpt": "mayor's executive orders in 2017 and 2026, are in full compliance with those orders. You, sorry, we are in full compliance. We're in full compliance with those orders. We are not sharing any information."
+    },
+    {
+      "id": "Q036",
+      "timestamp": "00:26:48",
+      "question_segment_ids": [
+        218,
+        219,
+        220
+      ],
+      "topic": "UASI",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Confirm the salary offset is for UASI work involving seven counties.",
+      "response_segment_ids": [
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "qualified",
+      "question_excerpt": "Wonderful. Thank you so much for confirming director. Um I just want to make sure we're clear on the uh the offset. So the offset of 81,000 is or work done for UASI. So you said there were there were seven counties involved with UASI.",
+      "response_excerpt": "Seven counties and two cities. Norc and Jersey City are the two principal or core cities. The counties are Bergen, Hudson, Union, Essex, Morris. um might miss it. Middle Sex U and that that basically what it is if you recall there was a report that was authored several years ago right after 911 and they declared the most dangerous two miles of the United States emanate along in those counties and that's why we had the standing that we have. We are number three as far as the uh the threat matrix for potential problems. Um whatever reason as I mentioned earlier there's been some changes where we went from three to 11. I think the uh through the diligence of the state pushing back on that and to why you executive board as a whole uh we got back to the level we should have never been removed from and we are presently at level three. So those two Jersey City and N are you guys"
+    },
+    {
+      "id": "Q037",
+      "timestamp": "00:28:00",
+      "question_segment_ids": [
+        228,
+        229
+      ],
+      "topic": "UASI",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Are Jersey City and Newark responsible for training the other jurisdictions?",
+      "response_segment_ids": [
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "qualified",
+      "question_excerpt": "we are presently at level three. So those two Jersey City and N are you guys responsible for like training of the 11 the other Oh so that's what the conversation is for now that you mentioned as I mentioned earlier we",
+      "response_excerpt": "responsible for like training of the 11 the other Oh so that's what the conversation is for now that you mentioned as I mentioned earlier we have committees throughout the our Yasi executive hierarchy you have fire safety you have seab burn chemical biological radiological explosive you have health safety you have law enforcement so what we do is that in addition to the core more funding. There's approximately, I want to say, close to $24 million that comes in to pay for programs to that Ewasi for the seven counties and the two cities. That $1.5 million for us and York are inclusive in that amount. So, what they'll do is that they'll support um for instance uh uh additional training for Seabourg based on the need for firefighting for electric vehicles, things like that nature. So, uh, these committees put together projects. Uh, we meet once a year to go through those projects, which will be coming up in my case on, I believe it's August 21st. Uh, we vet the projects. If they fit into the criteria that's current in place from federal government and compliant with the grant, then we can determine the funding that's going to be allocated. Okay? That's how it's it's basically uh putting the money for preparedness efforts to the whole area, the region."
+    },
+    {
+      "id": "Q038",
+      "timestamp": "00:29:29",
+      "question_segment_ids": [
+        239,
+        240,
+        241
+      ],
+      "topic": "UASI",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Must someone be a current local employee to receive UASI compensation, or can a retiree participate?",
+      "response_segment_ids": [
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "unqualified",
+      "question_excerpt": "Okay. So, I guess my follow-up question because I'm just trying to understand that now in in order for you to be compensated via UATI, would you like let's would you have to be a current employee of that jurisdiction? Let's say if you retire, you'll still be able to participate in that if you choose to.",
+      "response_excerpt": "you would I would basically when I was appointed to director of OEM back under mayor of Cunningham um the position was created right after 911 were created as a result of 911 and the two cities obviously Jersey City and New York the two principal core cities each has risk a domestic preparedness planner his responsibilities include working with the different entities involved in any funding but police require EMS um to determine and for instance we also do risk mitigation. So if we're asked to do a uh the latest project last project we worked on the big project was the Lowe's theater obviously anything that has capacity potentially is at risk for terrorism. So we work with the developers to determine what the security needs should be and then if it's applicable through the funding we can utilize some funding uh to protect those entities."
+    },
+    {
+      "id": "Q039",
+      "timestamp": "00:31:09",
+      "question_segment_ids": [
+        252,
+        253,
+        254,
+        255
+      ],
+      "topic": "OEM_fiscal",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "Explain the fiscal analyst's work and why OEM has this role when other divisions do not.",
+      "response_segment_ids": [
+        256,
+        257,
+        258
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "qualified",
+      "question_excerpt": "There's a fiscal analyst position in OEM um which has an under $1 million budget but there is no fiscal analyst or fiscal officer as far as I can see in department in divisions like fire or quality of life which have much larger budgets. if you can just explain the work of the fiscal analyst in OEM and why that position is is there and we don't have kind of analogous positions in in others of the divisions.",
+      "response_excerpt": "That's our our office manager. That's she assists in in the um processing of of all the associated grant paperwork. Um any of the expenditures as far as purchase orders and things like that, she's responsible for initiating requisitions. Uh that's the title. I don't I don't know whether that that is her correct title, but that's the title that she has. That's the civil service title. Granted."
+    },
+    {
+      "id": "Q040",
+      "timestamp": "00:32:05",
+      "question_segment_ids": [
+        259,
+        260,
+        261
+      ],
+      "topic": "OEM_fiscal",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Should other divisions have analogous fiscal roles?",
+      "response_segment_ids": [
+        262,
+        263
+      ],
+      "respondent": "PS",
+      "outcome": "deferred",
+      "confidence": "unknown",
+      "question_excerpt": "Um do we I mean [clears throat] question for you, director. Does it feel necessary that we should have analogous roles in the other divisions? Um it seems like a lot of grant money also comes to to fire. Um I imagine we get some in the other divisions too. So do we need a commensurate role in the other divisions?",
+      "response_excerpt": "Good question. Um, right now, uh, we will have to get back to you because I'm having meetings with the business administrator about, uh, our fiscal, uh, unit within public safety and reorganizing it. So, that's something that we'll look at."
+    },
+    {
+      "id": "Q041",
+      "timestamp": "00:33:24",
+      "question_segment_ids": [
+        269,
+        270,
+        271
+      ],
+      "topic": "vehicles",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "Should the vehicle-audit inquiry go to OEM or DPW?",
+      "response_segment_ids": [
+        271,
+        272
+      ],
+      "respondent": "PS_then_BA",
+      "outcome": "other_office",
+      "confidence": "unknown",
+      "question_excerpt": "All right, I got you now. Thank you. Uh director, good morning. Um one one question is um when I've been asking the administration about uh accounting for all the vehicles in the city, I I believe that's falling on your shoulders through OEM, although automotive falls under DPW. Should I be asking you that question or DPW that question for I I can't answer that question. Um, Director Levy and DPW is conducting the",
+      "response_excerpt": "question or DPW that question for I I can't answer that question. Um, Director Levy and DPW is conducting the vehicle audit for the whole city. So, it includes public safety, but other divisions, departments as well."
+    },
+    {
+      "id": "Q042",
+      "timestamp": "00:33:54",
+      "question_segment_ids": [
+        273
+      ],
+      "topic": "vehicles",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Will the citywide audit include vehicle and assignment details like the Public Safety spreadsheet?",
+      "response_segment_ids": [
+        273
+      ],
+      "respondent": "finance_BA",
+      "outcome": "other_office",
+      "confidence": "not_applicable",
+      "question_excerpt": "Okay. That'll include a similar um spreadsheet like we have for from public safety for the name, the make of the model, who is assigned to. That's right.",
+      "response_excerpt": "Okay. That'll include a similar um spreadsheet like we have for from public safety for the name, the make of the model, who is assigned to. That's right."
+    },
+    {
+      "id": "Q043",
+      "timestamp": "00:34:47",
+      "question_segment_ids": [
+        280,
+        281,
+        282,
+        283,
+        284,
+        285
+      ],
+      "topic": "parking_revenue",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "How much revenue does parking enforcement generate?",
+      "response_segment_ids": [
+        287,
+        288,
+        289,
+        290,
+        291,
+        292
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "qualified",
+      "question_excerpt": "So my my question here is uh I don't know what the count is, but there's looks like there's six um requested parking enforcement officers and as new hires and um zero were wereuded in the uh current um introduced budget. That's six parking enforcement officers and two supervising enforcement officers. Um, can can someone speak to the the idea that of how much revenue is generated by through parking enforcement? Um, and and",
+      "response_excerpt": "So, as far as the revenue, I know we spoke uh councilman on the last hearing and the salaries, wages, and what they bring in, they may be equal. We can only do what's called projected, right? Because we issue summones. For instance, June was 40,000 summones. Um, we get a portion of that revenue back once the fines are paid. So, it's up to the municipal court to collect on those fines and that's what will give us the real revenue projections. Um there are some things that are automatic revenue for us, meaning parking signs, um the permits, the fees with associated with the permits. But as far as actual revenue from summones issued, that would be up to the municipal court, their collection procedures, and then that"
+    },
+    {
+      "id": "Q044",
+      "timestamp": "00:35:29",
+      "question_segment_ids": [
+        286
+      ],
+      "topic": "parking_revenue",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "How much additional revenue would another enforcement officer generate?",
+      "response_segment_ids": [
+        293,
+        294,
+        295,
+        296,
+        297
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "qualified",
+      "question_excerpt": "what uh an additional parking enforcement officer could generate for Jersey City.",
+      "response_excerpt": "comes essentially back to us. What the six additional or seven additional uh parking enforcement officers and supervision will provide is we're establishing and enhancing more roles and responsibilities for our parking enforcement officers. Because of the shortage of crossing guards, they now double as crossing guards when we have a shortage at a location. We also considering adding additional zones for residential parking in certain neighborhoods which would need more enforcement. Um we're also we're limited now in what we have. We're spread thin. Um but having those extra personnel will assist us in taking care of the entire city more consistently."
+    },
+    {
+      "id": "Q045",
+      "timestamp": "00:37:05",
+      "question_segment_ids": [
+        298,
+        299
+      ],
+      "topic": "parking_revenue",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Who can provide the actual revenue figures: the division, Finance, or the court?",
+      "response_segment_ids": [
+        300
+      ],
+      "respondent": "finance_BA",
+      "outcome": "other_office",
+      "confidence": "not_applicable",
+      "question_excerpt": "So So um do I have to get the revenue numbers from you you don't maintain that? So uh to the BA I guess that's within finance would have to that or the court?",
+      "response_excerpt": "I'll add that on as a request. I think it was requested previously but I during our municipal court budget hearing we discussed some of the challenges of getting that data."
+    },
+    {
+      "id": "Q046",
+      "timestamp": "00:37:28",
+      "question_segment_ids": [
+        301,
+        302,
+        303,
+        304,
+        305
+      ],
+      "topic": "parking_uniform",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "Explain the uniform allocation and low spending.",
+      "response_segment_ids": [
+        306,
+        307,
+        308,
+        309,
+        310
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "qualified",
+      "question_excerpt": "Um then um um I will um turn your attention to line 215 um which uh 74,800 is included in this budget. Um the actual spend in 25 was 38% of the budgeted amount in 2025. Year to date we have zero dollars spent for the wearing apparel. Um and can you speak to that? And again are there incumbrances here that need to be um",
+      "response_excerpt": "so line 215 for our wearing apparel is for our uh uniforms. Yeah, crossing guards and for our parking enforcement. Traditionally, we audit uniforms annually. We definitely have to do them for crossing guards as contractual. Also, for our parking enforcement, this year, we don't have to order the entire set of uniforms. It's it's based on they're being replaced when they're worn. So, it's actually a reduction. We we spent more in 2025 on line 215. To my knowledge, we spent over 100 or we encumbered over 100."
+    },
+    {
+      "id": "Q047",
+      "timestamp": "00:38:05",
+      "question_segment_ids": [
+        305
+      ],
+      "topic": "parking_uniform",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "Are there encumbrances for that uniform line?",
+      "response_segment_ids": [
+        306,
+        307,
+        308,
+        309,
+        310
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "qualified",
+      "question_excerpt": "speak to that? And again are there incumbrances here that need to be um",
+      "response_excerpt": "so line 215 for our wearing apparel is for our uh uniforms. Yeah, crossing guards and for our parking enforcement. Traditionally, we audit uniforms annually. We definitely have to do them for crossing guards as contractual. Also, for our parking enforcement, this year, we don't have to order the entire set of uniforms. It's it's based on they're being replaced when they're worn. So, it's actually a reduction. We we spent more in 2025 on line 215. To my knowledge, we spent over 100 or we encumbered over 100."
+    },
+    {
+      "id": "Q048",
+      "timestamp": "00:38:47",
+      "question_segment_ids": [
+        311,
+        312
+      ],
+      "topic": "parking_uniform",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Are additional encumbrances anticipated?",
+      "response_segment_ids": [
+        313
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "My records show $57,392 spent in 2025. Um, so do do we anticipate additional incumbrances around this line?",
+      "response_excerpt": "That's correct. We have submitted requisitions. They're still pending processing."
+    },
+    {
+      "id": "Q049",
+      "timestamp": "00:39:06",
+      "question_segment_ids": [
+        314
+      ],
+      "topic": "parking_uniform",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Have requisitions been submitted or are they still being prepared?",
+      "response_segment_ids": [
+        314,
+        318,
+        319
+      ],
+      "respondent": "PS_then_finance",
+      "outcome": "partial",
+      "confidence": "unqualified",
+      "question_excerpt": "They you submitted or or in the process of submitting? We're in the process of spending it.",
+      "response_excerpt": "They you submitted or or in the process of submitting? We're in the process of spending it. So, when it comes to the uniform allowance uh ordering, we normally do that in October at the end of the year. So currently I am working with the team to getting quotes from the vendors so we could start working on these orders."
+    },
+    {
+      "id": "Q050",
+      "timestamp": "00:39:11",
+      "question_segment_ids": [
+        315
+      ],
+      "topic": "parking_uniform",
+      "kind": "document",
+      "follow_up": true,
+      "question_paraphrase": "Provide documentation of expected uniform amounts.",
+      "response_segment_ids": [
+        316,
+        317,
+        318,
+        319
+      ],
+      "respondent": "finance_BA",
+      "outcome": "other_office",
+      "confidence": "not_applicable",
+      "question_excerpt": "Okay. if you could provide me again documentation about what the amounts would be um around that.",
+      "response_excerpt": "I'm sorry. I'll have the Department of Finance speak on that, right? Sure. Thank you. Good morning. Good morning. So, when it comes to the uniform allowance uh ordering, we normally do that in October at the end of the year. So currently I am working with the team to getting quotes from the vendors so we could start working on these orders."
+    },
+    {
+      "id": "Q051",
+      "timestamp": "00:39:46",
+      "question_segment_ids": [
+        320,
+        321
+      ],
+      "topic": "parking_uniform",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Are new uniforms being ordered where contractually required?",
+      "response_segment_ids": [
+        322
+      ],
+      "respondent": "finance_BA",
+      "outcome": "other_office",
+      "confidence": "not_applicable",
+      "question_excerpt": "So So in terms of for for this division traffic and parking be ordering new new uniforms or where contractually they have to provide them uniforms.",
+      "response_excerpt": "Yeah. And do you have a sense of again 57,000 was spent in 2025. Are we anticipating a bigger spend this year?"
+    },
+    {
+      "id": "Q052",
+      "timestamp": "00:39:57",
+      "question_segment_ids": [
+        322,
+        323
+      ],
+      "topic": "parking_uniform",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Will this year's uniform spending exceed last year's $57,000?",
+      "response_segment_ids": [
+        323
+      ],
+      "respondent": "finance_BA",
+      "outcome": "other_office",
+      "confidence": "not_applicable",
+      "question_excerpt": "Yeah. And do you have a sense of again 57,000 was spent in 2025. Are we anticipating a bigger spend this year? The amount budgeted is 74,800. Yes. Because of price increase. Okay.",
+      "response_excerpt": "The amount budgeted is 74,800. Yes. Because of price increase. Okay."
+    },
+    {
+      "id": "Q053",
+      "timestamp": "00:40:14",
+      "question_segment_ids": [
+        324
+      ],
+      "topic": "parking_uniform",
+      "kind": "document",
+      "follow_up": true,
+      "question_paraphrase": "Provide the uniform spending information when available.",
+      "response_segment_ids": [
+        324
+      ],
+      "respondent": "finance_BA",
+      "outcome": "other_office",
+      "confidence": "not_applicable",
+      "question_excerpt": "If you could if you could provide me that information about as soon as we'll have it. We'll start working on it. We'll provide it.",
+      "response_excerpt": "If you could if you could provide me that information about as soon as we'll have it. We'll start working on it. We'll provide it."
+    },
+    {
+      "id": "Q054",
+      "timestamp": "00:40:57",
+      "question_segment_ids": [
+        330,
+        331,
+        332,
+        333
+      ],
+      "topic": "crossing_guards_events",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "To what extent can crossing guards cover events/construction instead of police overtime, and what limits apply?",
+      "response_segment_ids": [
+        334,
+        335,
+        336
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "unqualified",
+      "question_excerpt": "Uh, okay. For one question on traffic, um, just wanted to see, I appreciate the administration's commitment to getting, um, the right amount of money for school traffic guards. Um, to what extent could we use uh, school traffic guards to cover some of the um, work like during events, construction sites where police overtime is often used, which is far more expensive. uh to what kind of limitations are there and what can we do to get creative?",
+      "response_excerpt": "Uh we do that's a practice that we do. We use school school crossing guards uh we use them on Fourth of July and we also use them on sale 250 uh on the marathon we use them. So array of things we use them for."
+    },
+    {
+      "id": "Q055",
+      "timestamp": "00:41:41",
+      "question_segment_ids": [
+        337,
+        338
+      ],
+      "topic": "crossing_guards_events",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Is staffing the limitation on expanding that use?",
+      "response_segment_ids": [
+        338,
+        339,
+        340
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "Okay. And um is is the limitation to expanding that use to just try and have more and more cost savings for those kinds of events uh just the number of crossing guards we have on staff right now? It's all it's all according uh at",
+      "response_excerpt": "more and more cost savings for those kinds of events uh just the number of crossing guards we have on staff right now? It's all it's all according uh at the the site at the location. Uh if there's a threat uh so you know we certain officers have to are mandatory to work mandated to work uh but we're we don't we try to use more uh parking violations and uh crossing guards."
+    },
+    {
+      "id": "Q056",
+      "timestamp": "00:42:41",
+      "question_segment_ids": [
+        345,
+        346,
+        347
+      ],
+      "topic": "crossing_guards_staff",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "How many crossing-guard vacancies existed initially and how many remain?",
+      "response_segment_ids": [
+        348,
+        349,
+        350,
+        351,
+        352
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "Um, apologies for my tiredness. Uh, Lieutenant Ragland, quick question. Uh, this year we started with a number of open vacancies. Um, can you speak to the number of vacancies for crossing guards? Could you speak to the number of vacancies you started out with and where you're at now? Staffing. So, staffing",
+      "response_excerpt": "wise, there's 210 locations that we need to cover throughout the city. for our public schools, which doubles as coverage for our charter schools as well. We currently have 175 that are expected to return, which still leaves us with a shortage of uh 35 that we still need going into the new year, but that's where our parking enforcement doubles where, you know, we try to use personnel interchangeably to handle some of the needs of the city. One thing I just like to add, we we did hire uh we had when I got here, we had 37 vacancies. We hired 19 uh but we lost people uh we lost probably 16 of them. 16 people that uh didn't return."
+    },
+    {
+      "id": "Q057",
+      "timestamp": "00:44:02",
+      "question_segment_ids": [
+        356,
+        357,
+        358,
+        359
+      ],
+      "topic": "crossing_guards_staff",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Why are crossing-guard jobs hard to fill: recruitment, advertising, or lack of interest?",
+      "response_segment_ids": [
+        359,
+        360,
+        361,
+        362,
+        363
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "Yeah. Um, that was going to be my question as it relates to so what's what is the issue with getting crossing guards? Um, because I'm going to be honest crossing kids across the street. I feel like there's much more work in a city to be done. Um, so are we having a problem with recruiting? Are we have problem with advertisement? People that just don't want the job. What What's the issue? I would say that the recruitment",
+      "response_excerpt": "with advertisement? People that just don't want the job. What What's the issue? I would say that the recruitment is fine. We get people that want to come in. Retention is what's difficult for us. Once they It's a difficult job. We, you know, we need our crossing guards. It's a very difficult job. Most are older, elderly, some experience some type of medical condition after they receive the job. They don't want to return. It's also part-time, right? So, you know, they'll work it for the season, realize this isn't something that they really want to do, and then they don't return, which now puts us in that vicious cycle of trying to replace them."
+    },
+    {
+      "id": "Q058",
+      "timestamp": "00:45:01",
+      "question_segment_ids": [
+        364,
+        365,
+        366,
+        367,
+        368
+      ],
+      "topic": "crossing_guards_staff",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Can the city coordinate job fairs to recruit crossing guards?",
+      "response_segment_ids": [
+        369,
+        370,
+        371,
+        372,
+        373,
+        374
+      ],
+      "respondent": "finance_BA",
+      "outcome": "other_office",
+      "confidence": "not_applicable",
+      "question_excerpt": "Is there any any way we can coordinate uh I guess some job fears or or something? Cuz on one hand, I'm hearing there's no jobs available. On another hand, I'm hearing there's no employees available. So, if we can somehow somehow someway have some jaw fit, I get it. It's it's it's part-time. It's it's really a crazy scheduling to have someone come in in the morning early and then in that afternoon, I get it. Um, but I I just think that uh with the amount of people in Jersey City and the amount of people that need work that, you know, some common ground could be met. So, I I'm sorry. I was just jumping here.",
+      "response_excerpt": "Um, this is a problem actually in many many police departments. Um, the We're great though. Yeah, we're great here. I know. I know. Uh, I'm just saying that this school crossing guard recruitment and retention issue is across, you know, many different places. I think another uniqueness about this job is that it's so locationbased. People don't want to travel far for this job. So you you have a small geographical area where you're recruiting people again for a part-time job with you know the the work environments that no benefits. Um so I I think we would love to get your ideas on how we can recruit but I think the geography is also another element to the challenges."
+    },
+    {
+      "id": "Q059",
+      "timestamp": "00:48:04",
+      "question_segment_ids": [
+        387,
+        388
+      ],
+      "topic": "skip_tracer",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "What is the skip-tracer line/position?",
+      "response_segment_ids": [
+        389,
+        390,
+        391,
+        392
+      ],
+      "respondent": "PS",
+      "outcome": "deferred",
+      "confidence": "unknown",
+      "question_excerpt": "question line item 74. What is skip tracer? line item 74.",
+      "response_excerpt": "Just one moment. I know it's a software that the quality of life unit um unit uses. I'll have to get back to you when I discuss this with the municipal prosecutor. Um, I do believe that it is used to like as an intelligence database. I will get back to you on that. Oh, it's an actual position. I'm sorry. I'm I'll have to get back to you on that."
+    },
+    {
+      "id": "Q060",
+      "timestamp": "00:49:26",
+      "question_segment_ids": [
+        397
+      ],
+      "topic": "skip_tracer",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Does the skip tracer send people mail/how is the work performed?",
+      "response_segment_ids": [
+        397
+      ],
+      "respondent": "council",
+      "outcome": "other_office",
+      "confidence": "not_applicable",
+      "question_excerpt": "sending them mails or I I don't know enough about the the day-to-day work of the how they do it but",
+      "response_excerpt": "sending them mails or I I don't know enough about the the day-to-day work of the how they do it but"
+    },
+    {
+      "id": "Q061",
+      "timestamp": "00:50:27",
+      "question_segment_ids": [
+        405,
+        406,
+        407,
+        408
+      ],
+      "topic": "prosecutors",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "Why was a third prosecutor not funded: revenue or recruiting constraints?",
+      "response_segment_ids": [
+        408,
+        409,
+        410,
+        411,
+        412
+      ],
+      "respondent": "finance_BA",
+      "outcome": "other_office",
+      "confidence": "not_applicable",
+      "question_excerpt": "for housing violations and things like that. Um, I guess my question is, um, and I don't know, maybe this is better directed to the BA, but, uh, the two that were funded, I assume they will more than pay for themselves in in terms of, um, revenue from from fines and then the third, would can you explain the rationale? Was was the understanding that the third would not pay for itself or or was it simply that we don't expect to be able to hire a third? I I think it's more of the latter",
+      "response_excerpt": "understanding that the third would not pay for itself or or was it simply that we don't expect to be able to hire a third? I I think it's more of the latter as law department explained there were a lot of recruiting challenges given the salary and the work requirements and so even with the two that are allocated here I think they've had a hard time recruiting which is why we don't expect even if we budgeted for this year additional um that they'd be able to find uh a candidate for those positions."
+    },
+    {
+      "id": "Q062",
+      "timestamp": "00:51:30",
+      "question_segment_ids": [
+        413
+      ],
+      "topic": "prosecutors",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Are additional prosecutor positions therefore a longer-term goal?",
+      "response_segment_ids": [
+        413
+      ],
+      "respondent": "finance_BA",
+      "outcome": "other_office",
+      "confidence": "not_applicable",
+      "question_excerpt": "Okay. So, so the third position and even possibly more beyond that is more of a long-term goal due to the challenges in recruiting. Yes.",
+      "response_excerpt": "Okay. So, so the third position and even possibly more beyond that is more of a long-term goal due to the challenges in recruiting. Yes."
+    },
+    {
+      "id": "Q063",
+      "timestamp": "00:51:42",
+      "question_segment_ids": [
+        415,
+        416,
+        417,
+        418,
+        419,
+        420
+      ],
+      "topic": "prosecutors",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Why fund a vacant chief prosecutor position while there is an acting chief?",
+      "response_segment_ids": [
+        420,
+        421
+      ],
+      "respondent": "finance_BA",
+      "outcome": "other_office",
+      "confidence": "not_applicable",
+      "question_excerpt": "On that note, um we have uh prosecutor Kej uh listed as a assistant municipal prosecutor still, but it's my understanding he's he's still the acting um chief prosecutor. Um, but we have budgeted the I'm just trying to find the line. I'm sorry. We have budgeted uh the the chief municipal prosecutor um for $154,500 as the replacement for the former chief prosecutor. We have that budgeted, but it's a it's a vacancy and we do have an acting chief municipal prosecutor. Can you just explain why we're budgeting for this when we have an acting I think this is a budget workbook question that I",
+      "response_excerpt": "this when we have an acting I think this is a budget workbook question that I don't know if finance is ready to answer but we can circle back with you. Thank you, Council President. Really,"
+    },
+    {
+      "id": "Q064",
+      "timestamp": "00:53:07",
+      "question_segment_ids": [
+        425,
+        426,
+        427,
+        428
+      ],
+      "topic": "prosecutors",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Would the administration agree to remove the proposed prosecutor allocations for savings?",
+      "response_segment_ids": [
+        437,
+        438
+      ],
+      "respondent": "finance_BA",
+      "outcome": "other_office",
+      "confidence": "not_applicable",
+      "question_excerpt": "our municipal prosecutors are also part-time. They can have other other cases. So, I I would ask the administration if they're willing, uh, to to agree to amendment to remove those two items. It's $120,000 in savings. We can reallocate that to some of the other priorities. We we've talked about other hearings. Uh, and also for the chief this year, not that the acting prosecutor is not doing an adequate job. It's just that if we're looking for savings to try to reallocate some of the the the missed missed priorities in other departments, um those three areas would be would be worthwhile.",
+      "response_excerpt": "I mean we're happy to discuss any ideas you guys propose in terms of salary budget amendments. Um I think this is a good uh discussion to loop in the law department because there's a lot of overlap."
+    },
+    {
+      "id": "Q065",
+      "timestamp": "00:53:40",
+      "question_segment_ids": [
+        429,
+        430,
+        431
+      ],
+      "topic": "prosecutors",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Are the municipal prosecutors full-time or part-time?",
+      "response_segment_ids": [
+        432,
+        433,
+        434,
+        435,
+        436
+      ],
+      "respondent": "council",
+      "outcome": "other_office",
+      "confidence": "not_applicable",
+      "question_excerpt": "Sorry, can I seek clarification? Um the municipal assistant municipal prosecutors, one of them is listed as part-time in salaries and wages line item 102. The others are listed as full-time in um in in one line item 101. Um can I just get some clarification?",
+      "response_excerpt": "This is the This is the first I'm hearing that they're all part-time is is I'm sorry. What what I meant by that was I believe they're able to pursue um private practice as well even even if they're at the full-time. I I I could be I could be wrong about that, but that was my understanding. Also, for savings in the short term, I I forgot to mention this. Uh our law department lawyers are are handling municipal court for a stipend. That's another cost-saving uh opportunity where we're not we're not missing out on on not that we're not missing out but we we are getting coverage in court through our lawyers upstairs uh and they're being paid a stipen which would be less than what we would be paying the the two municipal prosecutors for."
+    },
+    {
+      "id": "Q066",
+      "timestamp": "00:54:48",
+      "question_segment_ids": [
+        439,
+        440
+      ],
+      "topic": "prosecutors",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Again, are the full-time budget lines actually full-time staff?",
+      "response_segment_ids": [
+        440
+      ],
+      "respondent": "finance_BA",
+      "outcome": "other_office",
+      "confidence": "not_applicable",
+      "question_excerpt": "But my my question was whether they are full-time. Do they work for you? The full-time the full-time lines on the budget workbook are full-time staff time or part-time.",
+      "response_excerpt": "The full-time the full-time lines on the budget workbook are full-time staff time or part-time."
+    },
+    {
+      "id": "Q067",
+      "timestamp": "00:54:48",
+      "question_segment_ids": [
+        439
+      ],
+      "topic": "prosecutors",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Do those prosecutors work for you?",
+      "response_segment_ids": [],
+      "respondent": "uncertain_admin",
+      "outcome": "unanswered",
+      "confidence": "not_applicable",
+      "question_excerpt": "But my my question was whether they are full-time. Do they work for you?",
+      "response_excerpt": ""
+    },
+    {
+      "id": "Q068",
+      "timestamp": "00:55:12",
+      "question_segment_ids": [
+        442
+      ],
+      "topic": "RC",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "Does RC fall under Quality of Life?",
+      "response_segment_ids": [
+        442
+      ],
+      "respondent": "uncertain_admin",
+      "outcome": "other_office",
+      "confidence": "not_applicable",
+      "question_excerpt": "RC also fall under here. Yes. Under quality of life.",
+      "response_excerpt": "RC also fall under here. Yes. Under quality of life."
+    },
+    {
+      "id": "Q069",
+      "timestamp": "00:55:18",
+      "question_segment_ids": [
+        443,
+        444
+      ],
+      "topic": "RC",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Where are the RC positions in the budget workbook?",
+      "response_segment_ids": [
+        444
+      ],
+      "respondent": "uncertain_admin",
+      "outcome": "other_office",
+      "confidence": "not_applicable",
+      "question_excerpt": "don't have that book open. So, I'll have to I'll probably follow up with you on that. Uh where does that book exist? Is it in this? It's under public safety quality of life. The RC members. Yes.",
+      "response_excerpt": "It's under public safety quality of life. The RC members. Yes."
+    },
+    {
+      "id": "Q070",
+      "timestamp": "00:55:41",
+      "question_segment_ids": [
+        445,
+        446,
+        447
+      ],
+      "topic": "QOL_305",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "Explain the printing/advertising line and its expenditure.",
+      "response_segment_ids": [
+        448
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "unqualified",
+      "question_excerpt": "Um let let me just move to other expenses. Um so 2026 line 305 printing and advertising um budgeted $10,000 spent to date. Uh 2025 we spent $3,710. Uh can you speak to that? Is there incumbrances forthcoming?",
+      "response_excerpt": "So for line 305, we have spent $500."
+    },
+    {
+      "id": "Q071",
+      "timestamp": "00:56:02",
+      "question_segment_ids": [
+        447
+      ],
+      "topic": "QOL_305",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "Are encumbrances forthcoming for printing/advertising?",
+      "response_segment_ids": [
+        449,
+        450,
+        451,
+        452,
+        453,
+        454
+      ],
+      "respondent": "PS_then_finance",
+      "outcome": "partial",
+      "confidence": "unknown",
+      "question_excerpt": "Uh can you speak to that? Is there incumbrances forthcoming?",
+      "response_excerpt": "I am unable to answer whether we have open encumbrances. The department of finance will answer that. Council members, I think you guys are looking at an expenditure report dated July 21st. Is that correct? Correct. So you don't have an updated expenditure report. That's why you might not see open exumbasses or updated expenditures for line 305 quality of life. Uh they have to print law books to go on law books. I will provide you all with an updated expenditure report. So it's just to give you a heads up. You might not see it because you have a July 21st expenditure report."
+    },
+    {
+      "id": "Q072",
+      "timestamp": "00:57:03",
+      "question_segment_ids": [
+        455,
+        456,
+        457
+      ],
+      "topic": "QOL_305",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Who prints the law books/how are they obtained?",
+      "response_segment_ids": [
+        455,
+        456,
+        457,
+        458,
+        459
+      ],
+      "respondent": "finance_BA",
+      "outcome": "other_office",
+      "confidence": "not_applicable",
+      "question_excerpt": "So who who prints the books? Are they out? Now the the publisher prints the publisher. She means purchase the books. I'm confused. Wait. So the books are printed by the publisher. How how does it We have uh vendors like Thomas uh Thompson Rutters is one of them. We have several vendors.",
+      "response_excerpt": "So who who prints the books? Are they out? Now the the publisher prints the publisher. She means purchase the books. I'm confused. Wait. So the books are printed by the publisher. How how does it We have uh vendors like Thomas uh Thompson Rutters is one of them. We have several vendors. I mean print them for you. No, we send the request out. They're counsel. They're not they're not printed. They're they're they're purchased. They're like a um just a resource. It's a book. I don't The question is why is it fall?"
+    },
+    {
+      "id": "Q073",
+      "timestamp": "00:57:26",
+      "question_segment_ids": [
+        458
+      ],
+      "topic": "QOL_305",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Do the vendors print the books for the division?",
+      "response_segment_ids": [
+        458,
+        459
+      ],
+      "respondent": "finance_BA",
+      "outcome": "other_office",
+      "confidence": "not_applicable",
+      "question_excerpt": "I mean print them for you. No, we send the request out.",
+      "response_excerpt": "I mean print them for you. No, we send the request out. They're counsel. They're not they're not printed. They're they're they're purchased. They're like a um just a resource. It's a book. I don't The question is why is it fall?"
+    },
+    {
+      "id": "Q074",
+      "timestamp": "00:57:30",
+      "question_segment_ids": [
+        459,
+        460
+      ],
+      "topic": "QOL_305",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Why are purchased books charged to printing and advertising?",
+      "response_segment_ids": [
+        461
+      ],
+      "respondent": "finance_BA",
+      "outcome": "other_office",
+      "confidence": "not_applicable",
+      "question_excerpt": "They're counsel. They're not they're not printed. They're they're they're purchased. They're like a um just a resource. It's a book. I don't The question is why is it fall? That's why I'm confused. Why is it in print and advertising?",
+      "response_excerpt": "The books are updated, right? Because the law changes, statute changes. So these books are updated."
+    },
+    {
+      "id": "Q075",
+      "timestamp": "00:57:52",
+      "question_segment_ids": [
+        462
+      ],
+      "topic": "QOL_305",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "How much is spent annually on law books?",
+      "response_segment_ids": [
+        463,
+        464
+      ],
+      "respondent": "finance_BA",
+      "outcome": "other_office",
+      "confidence": "not_applicable",
+      "question_excerpt": "You know how much they spend on the books every year?",
+      "response_excerpt": "I don't know. I can find out. I have not received a quest a request from Quality of Life as of yet. I know they're going to submit one. As soon as I do, I can provide it. I I would to to the BA. I would just recommend speaking to corp counsel. We"
+    },
+    {
+      "id": "Q076",
+      "timestamp": "00:59:21",
+      "question_segment_ids": [
+        476,
+        477
+      ],
+      "topic": "communications",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "Explain the contracts under line 314.",
+      "response_segment_ids": [
+        478,
+        479,
+        480
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "Um, so, so if we can start with line 314, contractual services. Um, and can you just speak to the different contracts that",
+      "response_excerpt": "Good morning. We uh briefly spoke about this the last time. The contractual services is where most of the software for the entire public safety division is housed. It's not necessarily hiring outside contractors. It's where the software goes. Uh it's our CAD RMS to the tune of about 1.6 6 million as well as various other software that police and fire uses."
+    },
+    {
+      "id": "Q077",
+      "timestamp": "01:00:02",
+      "question_segment_ids": [
+        481
+      ],
+      "topic": "communications",
+      "kind": "document",
+      "follow_up": true,
+      "question_paraphrase": "Was the contract/value list sent, and can council obtain it?",
+      "response_segment_ids": [
+        482,
+        483
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "qualified",
+      "question_excerpt": "Did we get a list of the different contracts and the amounts? Can we get that?",
+      "response_excerpt": "We do have that. I believe that was sent over. Okay. Thank you. It was sent. Yes. Council Person Brooks, Council Person Zuba, Council President"
+    },
+    {
+      "id": "Q078",
+      "timestamp": "01:00:35",
+      "question_segment_ids": [
+        488,
+        489,
+        490
+      ],
+      "topic": "communications",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "What was shifted between operating and capital funding?",
+      "response_segment_ids": [
+        490,
+        491
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "qualified",
+      "question_excerpt": "Yes. Um on line 314 just says partial shift from c capital budget um under the justification can and again if you you spoke to this the last time I don't recall I have my notes on that but no worries. What was shifted over the new 911 system was purchased on a capital lease. Believe that was hitting our line item in the previous budget and",
+      "response_excerpt": "What was shifted over the new 911 system was purchased on a capital lease. Believe that was hitting our line item in the previous budget and then it got shifted to a capital line item."
+    },
+    {
+      "id": "Q079",
+      "timestamp": "01:01:02",
+      "question_segment_ids": [
+        492,
+        493
+      ],
+      "topic": "communications",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Was it shifted to capital or from capital as the note says?",
+      "response_segment_ids": [
+        494,
+        495
+      ],
+      "respondent": "PS",
+      "outcome": "deferred",
+      "confidence": "unknown",
+      "question_excerpt": "It's being shifted to a capital line item, not from. Oh, no. It says from. So, it was previously paid for under capital.",
+      "response_excerpt": "There was a capital lease for the new 911 system. The radio infrastructure. I'll check on if we shifted it to or from. My understanding was it went to capital, but uh we'll check on it."
+    },
+    {
+      "id": "Q080",
+      "timestamp": "01:01:48",
+      "question_segment_ids": [
+        500,
+        501,
+        502
+      ],
+      "topic": "police_attrition",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "Provide the rank breakdown of officers who left since January.",
+      "response_segment_ids": [
+        503,
+        504,
+        505,
+        506
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "qualified",
+      "question_excerpt": "I believe at the last hearing it was mentioned that 25 officers left uh since January. Um I if you don't have it now that's I understand but um I was just going to request a breakdown of those uh resignations by rank. Um off the top of your head you have a sense of the distribution.",
+      "response_excerpt": "I believe it was uh two deputy chiefs or lieutenants uh and the rest were police officers. Okay. How many lieutenants? I'm sorry. Four retired. Okay. Thank you. Since January. One captain also. One captain, one cap, two deputy chiefs, one captain for lieutenants and the rest were the rest officers. Okay. And I will say that that number is now 28."
+    },
+    {
+      "id": "Q081",
+      "timestamp": "01:02:17",
+      "question_segment_ids": [
+        504
+      ],
+      "topic": "police_attrition",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "How many departing officers were lieutenants?",
+      "response_segment_ids": [
+        504,
+        505
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "Okay. How many lieutenants? I'm sorry. Four retired. Okay. Thank you. Since January.",
+      "response_excerpt": "Okay. How many lieutenants? I'm sorry. Four retired. Okay. Thank you. Since January. One captain also. One captain, one cap, two deputy chiefs, one captain for lieutenants and the rest were the rest officers. Okay."
+    },
+    {
+      "id": "Q082",
+      "timestamp": "01:02:34",
+      "question_segment_ids": [
+        507
+      ],
+      "topic": "police_attrition",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Were the three additional departures all police officers?",
+      "response_segment_ids": [
+        507
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "28. The other three being officers as well. All three being officers.",
+      "response_excerpt": "28. The other three being officers as well. All three being officers."
+    },
+    {
+      "id": "Q083",
+      "timestamp": "01:02:42",
+      "question_segment_ids": [
+        508,
+        509,
+        510,
+        511,
+        512
+      ],
+      "topic": "police_deputies",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "What was the impact of losing two deputy chiefs and how was the division reorganized?",
+      "response_segment_ids": [
+        513,
+        514,
+        515,
+        516,
+        517,
+        518,
+        519,
+        520,
+        521,
+        522,
+        523,
+        524,
+        525,
+        526,
+        527,
+        528,
+        529,
+        530,
+        531,
+        532,
+        533,
+        534,
+        535,
+        536,
+        537,
+        538,
+        539,
+        540
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "Understood. Um, and I just want to ask a little bit about uh I know we've been speaking about the the deputy chief roles and just trying to uh you know wrap my arms and my head around the different responsibilities there at the the top of the uh hierarchy um of the police division. Um so if you can just speak a bit to the impact of losing the two different deputy chiefs since the beginning of the year. Uh how you've restructured the division to uh compensate um for moving from 10 I believe you said deputy chiefs down to eight now.",
+      "response_excerpt": "Correct. So as I indicated before in January we had 10 deputy chiefs. Um they were assigned to various locations. Uh they were assigned to city command they call it where they worked around the clock on the street uh 24/7 just riding riding uh supervising uh actually they were supervising lieutenants because lieutenants were supposedly on the street and sergeants were on the desk. Um when I came in we looked at it uh there was no supervision at all in communications. the 911 uh center was uh just being overseen by a police lieutenant. Um totally um in my all my years in my experience that's a executive position. So I immediately put a deputy chief in charge in a 911 center with an executive officer uh who's in charge of the day-to-day operation of the 911 of the 911 system. Uh, also I took the deputy chiefs and uh they were actually uh working out of uh Marian up on top of a firehouse I believe on Marian. Uh it was probably a deplorable room they were working out of for an office. So we moved them I moved them uh gave them different responsibilities. What I did was I put them into communications. Uh they work around the clock. They stay in communications. They monitor all the calls 24/7. They make decisions from in there because they're in charge of the police department when the chief of police is not working. However, uh because of the number of deputy chiefs, we had one on days. We had one of the deputy chiefs working days. Uh when that deputy chief retired, uh there's no need for a replacement uh because the the chief of police and other deputy chiefs work uh from 9:00 to 5:00 or 8:00 to 4:00 in the daytime. So, uh, we put, uh, one deputy chief on 2 to 10 and one deputy chief on 10 to 6. So, we always had an executive, uh, officer, a deputy chief working. Now, you have relief times because they're off. So, we have captains that work filling in for when they're off. Um, then we had a deputy chief retire who was in charge of our traffic unit. Uh, he retired after 40 42 43 years of service. Uh that's when I made a decision to reorganize and not to fill that vacancy and to combine uh traffic with uh the patrol division, patrol bureau. And that that's traffic's under patrol right now. But we have currently we have two deputy chiefs that work 2 to 10 and 10 to 6 in the command center. They're they're assigned there. Uh they can leave through critical incidents if there was mass shootings, a plane crash, god forbid, a police officer, a firefighter, uh severely injured or killed. Um barricaded persons and as I indicated before in my statement, eight of them since January, they responded to eight barricaded persons uh where people we had a call for arrive, we had a call for the medical center and they were very successful. I'm comfortable with having that caliber of experience to respond to these scenes uh rather than a a first-line supervisor or or a mid manager. Um so right now uh I plan on moving forwarding uh as they they retire uh to restructure and to fill some of their responsibilities with captains."
+    },
+    {
+      "id": "Q084",
+      "timestamp": "01:06:52",
+      "question_segment_ids": [
+        541
+      ],
+      "topic": "police_deputies",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Can captains fill those responsibilities?",
+      "response_segment_ids": [
+        542
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "Okay. So those responsibilities could be filled by by the captains.",
+      "response_excerpt": "Yes. So, so basically when they retire and it trip them out, I would I would then uh have them positions filled by command rank officer, which would be a captain."
+    },
+    {
+      "id": "Q085",
+      "timestamp": "01:07:06",
+      "question_segment_ids": [
+        543,
+        544,
+        545,
+        546,
+        547
+      ],
+      "topic": "police_cuts",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "How would a roughly $3 million reduction require closing districts?",
+      "response_segment_ids": [
+        548,
+        549,
+        550,
+        551,
+        552,
+        553,
+        554,
+        555,
+        556,
+        557,
+        558,
+        559
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "Okay. Um I I know we all have questions here, so I want to try and get through mine, but just in in the beginning, you had mentioned that um a kind of reduction that you referenced would result in the closure of the north and east districts. I mean the the number referenced 3 million I think it's it's coming from looking at the various salaries of the deputy chiefs um some salaries of the captains but also overtime budget um and you said that that kind of reduction which amounts to less than 3% of the salaries and wages of the police would result in the closure of the north and east districts. If you can just explain a little bit about how the um if I understood you right, how half of the districts would have to go uh if that kind of less than 3%.",
+      "response_excerpt": "Well, upon my return from vacation, I was informed that uh the some of the council members were looking at or the administration was looking at a 3% or three a 30 $3 million uh deduction in my budget in the police budget only. Uh so when I read my statement before uh you're talking about a captain to a deputy chief two of them uh if there was a demotion you're saving maybe $50,000. Okay. Um so when you're talking $3 million you're talking human resources. You're talking because 98% of my my budget is our human resources are people. So we would have to eliminate starting by eliminating the class that's in the academy. That's really minimal because they're at their first step. And we would have to go to police officers laying police officers off and we would have to go through demotions in each each rank because a sergeant then would have to be demoted down to a lieutenant. So we wouldn't have enough personnel to cover all four districts. So how I would and any police executive would look at they look at their their uh workload analysis. We have the least amount of calls for service in the east and in the north the least amount of calls for service. Oh, I would start by closing one of them precincts down and having a minimal one, I said, and having that area handled geographically by the west or the south. And then we would probably have to lay off more personnel to reach that $3 million number."
+    },
+    {
+      "id": "Q086",
+      "timestamp": "01:11:30",
+      "question_segment_ids": [
+        576,
+        577,
+        578,
+        579
+      ],
+      "topic": "police_deputies",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "How many deputy chiefs does Newark currently have?",
+      "response_segment_ids": [
+        580
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "qualified",
+      "question_excerpt": "Um, I also, so to follow up on Councilman Efos's questions on the deputy chiefs, um, I I also appreciate your commitment that as they retire, um, you'll be able to fill some of them with captains for some of some of those um, responsibilities with captains for further cost savings. So, I appreciate that as well. Um, and and just just for clarification, so so you came to us from Newark. Um, do you know off the top of your head how many deputies are are in Newark currently?",
+      "response_excerpt": "Uh, anywhere from five to six. Uh, know there's a few that are on retired, so they might be on the payroll. There might be eight, but I think maybe five or six that are working."
+    },
+    {
+      "id": "Q087",
+      "timestamp": "01:12:37",
+      "question_segment_ids": [
+        584,
+        585,
+        586
+      ],
+      "topic": "police_deputies",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Could deputy chiefs be moved to captain roles now without layoffs?",
+      "response_segment_ids": [
+        587,
+        588,
+        589
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "unqualified",
+      "question_excerpt": "hypothetically, if if you were to do a reorg right now and um kind of move some of those deputy chiefs down to captain level, but with the goal of laying no one off, right? If the goal is to lay no one off, but you just wanted to move some of them down to captain level, um, is that doable? and and how many um like how many how many captains are there currently and how many captain spots are available in the org chart.",
+      "response_excerpt": "So let me begin by saying that that we have only two deputy chiefs that are in the command center that work two to 10 and one that works 10 to six uh that actually are in charge of the police department when the chief is sleeping and I'm sleeping. Um, so I have no intention on demoting them, but I have intentions when they retire to fill the position with a captain."
+    },
+    {
+      "id": "Q088",
+      "timestamp": "01:12:53",
+      "question_segment_ids": [
+        586
+      ],
+      "topic": "police_captains",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "How many captains are there currently?",
+      "response_segment_ids": [],
+      "respondent": "PS",
+      "outcome": "unanswered",
+      "confidence": "not_applicable",
+      "question_excerpt": "is that doable? and and how many um like how many how many captains are there currently and how many captain spots are available in the org chart.",
+      "response_excerpt": ""
+    },
+    {
+      "id": "Q089",
+      "timestamp": "01:12:53",
+      "question_segment_ids": [
+        586
+      ],
+      "topic": "police_captains",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "How many captain positions are available in the organization chart?",
+      "response_segment_ids": [],
+      "respondent": "PS",
+      "outcome": "unanswered",
+      "confidence": "not_applicable",
+      "question_excerpt": "is that doable? and and how many um like how many how many captains are there currently and how many captain spots are available in the org chart.",
+      "response_excerpt": ""
+    },
+    {
+      "id": "Q090",
+      "timestamp": "01:13:29",
+      "question_segment_ids": [
+        590
+      ],
+      "topic": "police_captains",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Again, how many captain positions are in the organization chart?",
+      "response_segment_ids": [
+        591
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "unqualified",
+      "question_excerpt": "Thank you for the clarification. And just the second part of my question, um, how many captain positions are in the org chart right now? And",
+      "response_excerpt": "there's there's 19 captains 19 captains working currently. And are there open captain positions?"
+    },
+    {
+      "id": "Q091",
+      "timestamp": "01:13:38",
+      "question_segment_ids": [
+        591
+      ],
+      "topic": "police_captains",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Are there open captain positions?",
+      "response_segment_ids": [
+        592
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "unknown",
+      "question_excerpt": "there's there's 19 captains 19 captains working currently. And are there open captain positions?",
+      "response_excerpt": "There's positions about have an opening position subjected positions. Okay."
+    },
+    {
+      "id": "Q092",
+      "timestamp": "01:14:06",
+      "question_segment_ids": [
+        597,
+        598
+      ],
+      "topic": "police_deputies",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Is fewer deputies and more captains the intended direction here too?",
+      "response_segment_ids": [
+        597
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "Okay. So, so their model seem does seem to be fewer deputy chiefs and more captains which I think is that's where I'm going. That's the same. That's that's where you're going as well. Okay, great. Thank you for the clarification.",
+      "response_excerpt": "Okay. So, so their model seem does seem to be fewer deputy chiefs and more captains which I think is that's where I'm going. That's the same."
+    },
+    {
+      "id": "Q093",
+      "timestamp": "01:14:27",
+      "question_segment_ids": [
+        600,
+        601,
+        602
+      ],
+      "topic": "residency",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "Might you recommend suspending the residency requirement for new hires?",
+      "response_segment_ids": [
+        603,
+        604,
+        605,
+        606
+      ],
+      "respondent": "PS",
+      "outcome": "deferred",
+      "confidence": "unknown",
+      "question_excerpt": "Zuba director good morning. Uh two two things you may have touched on earlier so I apologize. One is the residency requirement for new officers. The city has not done a good enough job on building workforce housing yet. I know it's a priority for this council and for the mayor. Uh do do you envision any point recommending that we suspend that requirement for new hires?",
+      "response_excerpt": "We do have currently with the law department where we have we had one meeting already talking about the residency uh requirement uh and we're going to follow up probably within the next couple of weeks. So I could be get back to you to the BA more information on that. I know the current stat uh uh statute is uh ordinances like NORC, you have to have two years prior uh to taking the test to become a Jersey City police officer. That's something that we're discussing uh ways to uh entice people to become police officers in Jersey City."
+    },
+    {
+      "id": "Q094",
+      "timestamp": "01:15:29",
+      "question_segment_ids": [
+        608,
+        609,
+        610
+      ],
+      "topic": "special_officers",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "Give an update on Class II special officers as a staffing/cost option.",
+      "response_segment_ids": [
+        611,
+        612,
+        613,
+        614,
+        615,
+        616
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "that too. Uh the second point was um again you may have mentioned this but class 2 officers something many of us talked about or I talked at least I talked about during um before getting elected it's a way of having police work performed uh but when we're in a budget crunch having some uh um not the same financial um issues that that hiring new officers would have.",
+      "response_excerpt": "It's a good question. We spoke before uh there is an ordinance that's coming through uh through the law department and the business administrator to you. Uh we are asking for special police officers uh which are part-time uh much like most of the miss contiguous municipalities. Uh we're looking to put them in the courts. Uh we're looking to use them and as in my building where we have a security agency working where we want to put them in there. Uh so we want to start with the courts. Uh we will free up seven police officers. And I was say just to be clear, this is not in in lie of our police officers. We're freeing up the regular police officers to get them back on the street and to use the special also for housing. We're also putting in an ordinance that uh they could be hired to work public housing sites."
+    },
+    {
+      "id": "Q095",
+      "timestamp": "01:16:41",
+      "question_segment_ids": [
+        618
+      ],
+      "topic": "police_deputies",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Is a deputy chief assigned to municipal court?",
+      "response_segment_ids": [
+        619,
+        620,
+        621
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "Thank you. um won't belabor the point the point of the uh retiring deputy chiefs, but um is one of them currently uh assigned to the municipal court?",
+      "response_excerpt": "No, that's support services. That's support services. That's support services. He's a bureau chief in charge of uh of the of the property evidence room. He's in charge of central uh central processing booking and he's also in charge of the courts because we have officers assigned there."
+    },
+    {
+      "id": "Q096",
+      "timestamp": "01:17:09",
+      "question_segment_ids": [
+        622,
+        623,
+        624
+      ],
+      "topic": "police_OT",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "Does a significant share of sworn overtime go to superior officers?",
+      "response_segment_ids": [
+        625,
+        626
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "qualified",
+      "question_excerpt": "Got it. Thank you. Um and then with regard to uh overtime, so um a significant percentage of the overall overtime for sworn officers um is from is from the superior officers. Is that correct?",
+      "response_excerpt": "Uh yeah. I I don't I don't know. The last time I I came before you, we're spending about $1.6 $6 million right now, even close to $2 million, which I could save, but we promote lieutenants and sergeants and captains, but mainly the lieutenants rank is where we're paying the overtime, a lot of overtime."
+    },
+    {
+      "id": "Q097",
+      "timestamp": "01:17:46",
+      "question_segment_ids": [
+        627,
+        628
+      ],
+      "topic": "police_OT",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Is that overtime for lieutenants covering captain roles?",
+      "response_segment_ids": [
+        629,
+        630,
+        631,
+        632
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "Got it. So, the money currently is at when a lieutenant is covering a captain. Um, and I know there's, you know, contractual regulations about the number of hours you have to work in that role.",
+      "response_excerpt": "Is it is it eight? We we we don't the overtime, believe it or not, isn't for working a a lower rank, working a higher rank. What we're paying a lot of overtime in the superiors is for manning the four district to lieutenants position. We are we each command needs approximately nine lieutenants, 36. There's only seven. So we're paying we're short 29 lieutenants right there for patrol. Got it. And maybe even more uh for the other units. So we definitely and we have budgeted openings for that so we could save overtime on that."
+    },
+    {
+      "id": "Q098",
+      "timestamp": "01:17:53",
+      "question_segment_ids": [
+        628,
+        629
+      ],
+      "topic": "police_OT",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Is the contractual higher-rank threshold eight hours?",
+      "response_segment_ids": [
+        629,
+        630,
+        631,
+        632
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "unqualified",
+      "question_excerpt": "Um, and I know there's, you know, contractual regulations about the number of hours you have to work in that role. Is it is it eight? We we we don't the overtime, believe it or not, isn't for working a a lower rank, working a higher rank. What we're paying a lot of",
+      "response_excerpt": "Is it is it eight? We we we don't the overtime, believe it or not, isn't for working a a lower rank, working a higher rank. What we're paying a lot of overtime in the superiors is for manning the four district to lieutenants position. We are we each command needs approximately nine lieutenants, 36. There's only seven. So we're paying we're short 29 lieutenants right there for patrol. Got it. And maybe even more uh for the other units. So we definitely and we have budgeted openings for that so we could save overtime on that."
+    },
+    {
+      "id": "Q099",
+      "timestamp": "01:18:39",
+      "question_segment_ids": [
+        634,
+        635
+      ],
+      "topic": "police_expenses",
+      "kind": "document",
+      "follow_up": false,
+      "question_paraphrase": "Provide documentation for expense lines 203, 208, and 214.",
+      "response_segment_ids": [],
+      "respondent": "PS",
+      "outcome": "unanswered",
+      "confidence": "not_applicable",
+      "question_excerpt": "Um I'm just going to make a statement about also be requesting documentation on in the uh um expenditure reports on 203 208 and 214 those other expense items.",
+      "response_excerpt": ""
+    },
+    {
+      "id": "Q100",
+      "timestamp": "01:18:58",
+      "question_segment_ids": [
+        636,
+        637,
+        638,
+        639,
+        640,
+        641
+      ],
+      "topic": "police_headcount",
+      "kind": "document",
+      "follow_up": true,
+      "question_paraphrase": "Provide current rank counts instead of the June 30 workbook figures.",
+      "response_segment_ids": [
+        641,
+        642,
+        643,
+        644,
+        645,
+        646,
+        647
+      ],
+      "respondent": "finance_BA",
+      "outcome": "other_office",
+      "confidence": "not_applicable",
+      "question_excerpt": "Well, what I'll focus my question here is just on um you say you were going to provide updated numbers around uh from the deputy chiefs, captains, lieutenant sergeants, and police officers. We get all updated numbers on that. You want I didn't hear you. Excuse me. Will we get up the the current numbers that we have reflected in our report um budget worksheet shows numbers as of June 30th. So, for example, says deputy chief's eight of as of June 30th. Says for police officers, 591 as of June 30th, including detectives. Are we getting updated numbers? I I don't know if that was already. So, are are you referring to the active employees list? Which document are you referring to?",
+      "response_excerpt": "Are we getting updated numbers? I I don't know if that was already. So, are are you referring to the active employees list? Which document are you referring to? Uh the budget worksheet that uh um shows the list of shows the list of um civilian employees. Um but for the uh uniform officers um so yeah the budget workbook right um we I mean we can update the column K that's what you're referring to the I'm not sure what the column it's just justification comments yes yes we can update that yeah the numbers there but that is that that was the current number as of June 30th so we could put the current number as of August 6th, but it's going to be outdated as of tomorrow. So, sure, if if that's what you like, we can we can send you that information."
+    },
+    {
+      "id": "Q101",
+      "timestamp": "01:20:32",
+      "question_segment_ids": [
+        648,
+        649
+      ],
+      "topic": "police_headcount",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Does the police officer count include incoming academy classes?",
+      "response_segment_ids": [
+        649,
+        650,
+        651
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "Yeah. So, there's been a lot of talk just the numbers and so forth. So, does does the police officers number include the incoming classes? Um, no, it does not. Um, we currently have",
+      "response_excerpt": "number include the incoming classes? Um, no, it does not. Um, we currently have 129 detectives, 460 police officers as of today. And those numbers do not include the 23 that are in the academy right now."
+    },
+    {
+      "id": "Q102",
+      "timestamp": "01:20:58",
+      "question_segment_ids": [
+        652
+      ],
+      "topic": "police_headcount",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Is there another academy class coming?",
+      "response_segment_ids": [
+        652
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "23 in the academy. Did you say there's another academy coming? No, there's just the 23. Just the 23. Okay.",
+      "response_excerpt": "23 in the academy. Did you say there's another academy coming? No, there's just the 23. Just the 23. Okay."
+    },
+    {
+      "id": "Q103",
+      "timestamp": "01:22:27",
+      "question_segment_ids": [
+        663
+      ],
+      "topic": "police_headcount",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "How many sworn officers are there now?",
+      "response_segment_ids": [
+        664,
+        665,
+        666,
+        667
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "Um, director, if you can speak to uh the young lady, how many uh officers is it again?",
+      "response_excerpt": "As of today, we have 767 sworn law enforcement. That includes our chief, eight deputy chiefs, 19 captains, 44 lieutenants, 106 I'm sorry, I'm sorry, that was 106 sergeants, 129 detectives, 460 police officers, and we have 23 officers in the academy."
+    },
+    {
+      "id": "Q104",
+      "timestamp": "01:23:09",
+      "question_segment_ids": [
+        668,
+        669,
+        670
+      ],
+      "topic": "police_headcount",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "How many are physically available to work after leave and retirement-related absences?",
+      "response_segment_ids": [
+        671,
+        672,
+        673,
+        674,
+        675,
+        676,
+        677,
+        678,
+        679
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "unqualified",
+      "question_excerpt": "Now, I've learned I guess a couple years ago, so that number is all of the people I guess on paper, how many of them are like physically on the job, not getting ready to retire, not out on sick leave, not out on and like how like from a manpower standpoint, how many active personnel officers do we add?",
+      "response_excerpt": "Okay, good question. So we'll start with vacations. All times there's 20% are on vacation. Then we'll start sick or injured. There's 13% of the department out that are sick or injured. Then you the relief factor as far as people off because they can't work. When people hear you have 400 cops, you think they're working every day, but there's a relief factor involved. Okay? 30% of your officers are off. All right? So you have 30% of your officers are off on the relief factor. you have 20% are on vacation and you have 13% out sick or injured or on family leave. So, and so you don't have uh them all coming to work because that's an optimal number if they all came to work. U now we have 111 that are eligible to leave by 2028. It takes two years to recruit and hire. If you have a current list, takes about two years to certify them, investigate them, get them trained, about two years. So, my last time I was here, I'd say I'm concerning about the attrition of police officers uh over the next uh two to three years."
+    },
+    {
+      "id": "Q105",
+      "timestamp": "01:25:00",
+      "question_segment_ids": [
+        682,
+        683,
+        684,
+        685,
+        686,
+        687
+      ],
+      "topic": "fire_capital",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "Explain the removed vehicle-leasing and fire-hose lines and their replacement funding.",
+      "response_segment_ids": [
+        692,
+        693,
+        694,
+        695,
+        696,
+        697,
+        698,
+        699
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "unqualified",
+      "question_excerpt": "Um I understand that several of the apparatus currently um on primary service um should maybe be based on their age and the wear and tear should be maybe used as backup service. And that's kind of where we're at right now. Um, I did notice that um line item 316, leasing of vehicles and equipment um was struck in the um draft budget and the comment was shifted to municipal debt service and then line item 413 fire hoses was struck in the draft budget and it was said um offset via reserves from fees. Um can you can you speak more to that and um like like what is the plan for for getting the um apparatus that the",
+      "response_excerpt": "The short answer is I am very concerned about the current state of our firehouses and more importantly our fire apparatus. Most of our apparatus is well beyond the NFPA standards. Currently, it takes 2 to 3 years if we place an order today to have the apparatus manufactured and come to Jersey City. The cost of apparatus over the past few years has doubled or tripled. So, it's a huge strain on the municipal budget. In the past, we've relied heavily on leasing vehicles, which you could see in that particular line item was transferred to capital debt. However, I've had active conversations with the administration to work on a purchasing plan. We need to place orders for apparatus. Now, we've tried with the stop gap measure to purchase spare apparatus from other departments that are at the end of their lifespans at least to give us something to put apparatus on duty. But in any given day, I may have one or two companies that can't be placed in service because we don't have apparatus to to to to operate in the city. Steve, um,"
+    },
+    {
+      "id": "Q106",
+      "timestamp": "01:25:42",
+      "question_segment_ids": [
+        687,
+        688,
+        689,
+        690
+      ],
+      "topic": "fire_capital",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "What is the apparatus replacement plan and will it appear in capital funding?",
+      "response_segment_ids": [
+        692,
+        693,
+        694,
+        695,
+        696,
+        697,
+        698,
+        699
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "unqualified",
+      "question_excerpt": "Um can you can you speak more to that and um like like what is the plan for for getting the um apparatus that the fire department needs and um is will this be will we see this in the capital budget instead because I understand you know there's leasing there's purchasing equipment and um you know it it there's an argument for having it in the operational budget and there's also an argument for having it in the capital budget. Can you can you explain more about what the plan is to u make sure our apparatus is up to date?",
+      "response_excerpt": "The short answer is I am very concerned about the current state of our firehouses and more importantly our fire apparatus. Most of our apparatus is well beyond the NFPA standards. Currently, it takes 2 to 3 years if we place an order today to have the apparatus manufactured and come to Jersey City. The cost of apparatus over the past few years has doubled or tripled. So, it's a huge strain on the municipal budget. In the past, we've relied heavily on leasing vehicles, which you could see in that particular line item was transferred to capital debt. However, I've had active conversations with the administration to work on a purchasing plan. We need to place orders for apparatus. Now, we've tried with the stop gap measure to purchase spare apparatus from other departments that are at the end of their lifespans at least to give us something to put apparatus on duty. But in any given day, I may have one or two companies that can't be placed in service because we don't have apparatus to to to to operate in the city. Steve, um,"
+    },
+    {
+      "id": "Q107",
+      "timestamp": "01:27:25",
+      "question_segment_ids": [
+        700
+      ],
+      "topic": "fire_capital",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Can council expect apparatus in the capital budget?",
+      "response_segment_ids": [
+        701,
+        702,
+        703
+      ],
+      "respondent": "finance_BA",
+      "outcome": "other_office",
+      "confidence": "not_applicable",
+      "question_excerpt": "is this administrator Choy? Can we expect to see apparatus in the capital budget?",
+      "response_excerpt": "Yes, we are in active discussions with the director about a number of um fire related equipment that would be eligible for capital. One of the things um that we need to do before we put it in for any capital expenditure is a review by bond council which my understanding is happening right now through the finance department. So that is a process step that we have to go through for approval using capital funds."
+    },
+    {
+      "id": "Q108",
+      "timestamp": "01:28:07",
+      "question_segment_ids": [
+        705,
+        706,
+        707,
+        708
+      ],
+      "topic": "fire_PPE",
+      "kind": "document",
+      "follow_up": false,
+      "question_paraphrase": "Provide documentation and encumbrances for firefighter gear line 215.",
+      "response_segment_ids": [
+        709,
+        710,
+        711,
+        712,
+        713,
+        714,
+        715,
+        716,
+        717,
+        718
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "qualified",
+      "question_excerpt": "One final question, quick one. Um on uh OSHA, the um 215 firefighter gear, it's 20 25 a million dollars. 26 also a million spent 424,025 104,763 to date. Um just going to need some documentation and incumbrance information of uh regard to that line.",
+      "response_excerpt": "For the record, the um the agreement was made that we probably would have to spend close to $6 million back in 2023 to ensure that our firefighters have the appropriate level of personal protective equipment. By contract, each member has two sets of turnout gear. Cost of turnout gear is approximately $6,000 per set. So when we came up with that figure of $6 million a few years ago that was projected to be spent over four years. We currently have a contract in place. It was put out to bid. Uh I believe we approximated $1.5 million for a year. That contract is offset beginning in July, ending in June. So it doesn't correspond to our calendar year. I did my research. So from July um of 24 to January uh June, I'm sorry, June of 25, we spent approximately 1.3 million of the 1.5 that we projected. Um this past year, it's closer to $1 million, which is we're trying to stay within budget. And I'm hopeful that with this next coming year, we can try to keep it up to $1 million, but contractually obligated to purchase protective equipment for our firefighters. It's not only turnout gear, but it's also their their uniforms and helmets and things of that nature."
+    },
+    {
+      "id": "Q109",
+      "timestamp": "01:29:46",
+      "question_segment_ids": [
+        719,
+        720
+      ],
+      "topic": "fire_PPE",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Did you say $1.3 million was spent last year?",
+      "response_segment_ids": [
+        721
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "To to be clear that I I want to make sure they have the equipment and um and everything that they need to uh be safe and be able to be protected and um certainly not looking at but you said you say 1.3 million was spent last year.",
+      "response_excerpt": "Uh that was from July of 24 to June of 25."
+    },
+    {
+      "id": "Q110",
+      "timestamp": "01:30:08",
+      "question_segment_ids": [
+        722,
+        723,
+        724
+      ],
+      "topic": "fire_PPE",
+      "kind": "question",
+      "follow_up": true,
+      "question_paraphrase": "Reconcile that with Finance showing about $424,000 for calendar 2025.",
+      "response_segment_ids": [
+        723,
+        724,
+        725
+      ],
+      "respondent": "PS",
+      "outcome": "partial",
+      "confidence": "unqualified",
+      "question_excerpt": "So, so the records I get from finance say $424,44 was spent in all of 2025. That was from July to December of 25. That's not what they're show showing me. So, um they're saying January to December um is my understanding and how that number runs.",
+      "response_excerpt": "That was from July to December of 25. That's not what they're show showing me. So, um they're saying January to December um is my understanding and how that number runs. Yeah, this contract runs runs, you know, July to January, July to June. So, so I'll put the onus on um finance and to"
+    },
+    {
+      "id": "Q111",
+      "timestamp": "01:30:57",
+      "question_segment_ids": [
+        729,
+        730,
+        731
+      ],
+      "topic": "fire_closures",
+      "kind": "question",
+      "follow_up": false,
+      "question_paraphrase": "Clarify on the record whether there were plans to close two fire companies/firehouses.",
+      "response_segment_ids": [
+        732,
+        733
+      ],
+      "respondent": "PS",
+      "outcome": "direct",
+      "confidence": "unqualified",
+      "question_excerpt": "Appreciate because I because I was here last. Okay. Um just you know there's members of the press here uh and there have been some reports on social media that there were contemplations or plans to close two companies or firehouses. Um just want to ask on the record is thank thank you for for for I think they",
+      "response_excerpt": "quoted me. I I never before this body said that I was we were looking to close the administration or myself was looking to close a fire department. Today was the first time that I said if we had to increase the police budget then I would have to look to do some uh closings of preets. But never did we say a firehouse."
+    }
+  ],
+  "response_events": [
+    {
+      "id": "E001",
+      "kind": "follow_up",
+      "start_segment": 93,
+      "end_segment": 95,
+      "timestamp": "00:12:03",
+      "respondent": "PS",
+      "interpretation": "Investigate congregating officers and report back; one episode despite multiple promises.",
+      "excerpt": "Well, before you go on, Councilwoman, I would like you to forward me that information to me or my chief of staff and the chief of police and we will definitely look into it and get to the bottom of it and get back to you. Thank you. Um, I will address with the with the chief about talking to the officers about congregating together. Uh, I I don't you know, I'm just going by what you're"
+    },
+    {
+      "id": "E002",
+      "kind": "follow_up",
+      "start_segment": 105,
+      "end_segment": 106,
+      "timestamp": "00:13:21",
+      "respondent": "PS",
+      "interpretation": "Check salary comparison and provide information.",
+      "excerpt": "Yeah, if you send me that and I'll definitely uh but I I believe that uh NORC is higher paid than Jersey City. Uh I believe even the start pay is higher. I believe there's more steps in Jersey City, but I will get to the use information and I would show you and Jersey City."
+    },
+    {
+      "id": "E003",
+      "kind": "follow_up",
+      "start_segment": 194,
+      "end_segment": 194,
+      "timestamp": "00:24:09",
+      "respondent": "PS",
+      "interpretation": "Offer breakdown supporting line 214.",
+      "excerpt": "to spend some money on some range related costs. Uh we can do a breakdown."
+    },
+    {
+      "id": "E004",
+      "kind": "follow_up",
+      "start_segment": 204,
+      "end_segment": 205,
+      "timestamp": "00:25:25",
+      "respondent": "PS",
+      "interpretation": "Provide parts/supplies spending and cost breakdown.",
+      "excerpt": "The parts we're talking about are directly related to the the training range center. obviously filters and things of that nature. We can get you a breakdown of what was spent and the approximate costs. Yeah."
+    },
+    {
+      "id": "E005",
+      "kind": "follow_up",
+      "start_segment": 262,
+      "end_segment": 263,
+      "timestamp": "00:32:32",
+      "respondent": "PS",
+      "interpretation": "Get back on fiscal roles and reorganization.",
+      "excerpt": "Good question. Um, right now, uh, we will have to get back to you because I'm having meetings with the business administrator about, uh, our fiscal, uh, unit within public safety and reorganizing it. So, that's something that we'll look at."
+    },
+    {
+      "id": "E006",
+      "kind": "follow_up",
+      "start_segment": 389,
+      "end_segment": 392,
+      "timestamp": "00:48:28",
+      "respondent": "PS",
+      "interpretation": "Get back on skip tracer; three repeated promises count once.",
+      "excerpt": "Just one moment. I know it's a software that the quality of life unit um unit uses. I'll have to get back to you when I discuss this with the municipal prosecutor. Um, I do believe that it is used to like as an intelligence database. I will get back to you on that. Oh, it's an actual position. I'm sorry. I'm I'll have to get back to you on that."
+    },
+    {
+      "id": "E007",
+      "kind": "follow_up",
+      "start_segment": 495,
+      "end_segment": 495,
+      "timestamp": "01:01:16",
+      "respondent": "PS",
+      "interpretation": "Check whether 911 cost moved to or from capital.",
+      "excerpt": "I'll check on if we shifted it to or from. My understanding was it went to capital, but uh we'll check on it."
+    },
+    {
+      "id": "E008",
+      "kind": "follow_up",
+      "start_segment": 603,
+      "end_segment": 606,
+      "timestamp": "01:14:50",
+      "respondent": "PS",
+      "interpretation": "Return with residency-requirement information after discussions.",
+      "excerpt": "We do have currently with the law department where we have we had one meeting already talking about the residency uh requirement uh and we're going to follow up probably within the next couple of weeks. So I could be get back to you to the BA more information on that. I know the current stat uh uh statute is uh ordinances like NORC, you have to have two years prior uh to taking the test to become a Jersey City police officer. That's something that we're discussing uh ways to uh entice people to become police officers in Jersey City."
+    },
+    {
+      "id": "E009",
+      "kind": "follow_up",
+      "start_segment": 20,
+      "end_segment": 20,
+      "timestamp": "00:02:34",
+      "respondent": "uncertain_admin",
+      "interpretation": "Circle back with Finance about including grant funding; likely administration, attribution not secure.",
+      "excerpt": "I I will circle back with finance, but I don't think they will feel confident to incorporate that amount in the budget."
+    },
+    {
+      "id": "E010",
+      "kind": "follow_up",
+      "start_segment": 300,
+      "end_segment": 300,
+      "timestamp": "00:37:17",
+      "respondent": "finance_BA",
+      "interpretation": "Add parking revenue to the information requests.",
+      "excerpt": "I'll add that on as a request. I think it was requested previously but I during our municipal court budget hearing we discussed some of the challenges of getting that data."
+    },
+    {
+      "id": "E011",
+      "kind": "follow_up",
+      "start_segment": 324,
+      "end_segment": 324,
+      "timestamp": "00:40:14",
+      "respondent": "finance_BA",
+      "interpretation": "Provide uniform information when ready.",
+      "excerpt": "If you could if you could provide me that information about as soon as we'll have it. We'll start working on it. We'll provide it."
+    },
+    {
+      "id": "E012",
+      "kind": "follow_up",
+      "start_segment": 420,
+      "end_segment": 421,
+      "timestamp": "00:52:24",
+      "respondent": "finance_BA",
+      "interpretation": "Circle back on chief prosecutor budget line.",
+      "excerpt": "this when we have an acting I think this is a budget workbook question that I don't know if finance is ready to answer but we can circle back with you. Thank you, Council President. Really,"
+    },
+    {
+      "id": "E013",
+      "kind": "follow_up",
+      "start_segment": 453,
+      "end_segment": 454,
+      "timestamp": "00:56:52",
+      "respondent": "finance_BA",
+      "interpretation": "Provide updated expenditure report.",
+      "excerpt": "I will provide you all with an updated expenditure report. So it's just to give you a heads up. You might not see it because you have a July 21st expenditure report."
+    },
+    {
+      "id": "E014",
+      "kind": "follow_up",
+      "start_segment": 463,
+      "end_segment": 464,
+      "timestamp": "00:57:55",
+      "respondent": "finance_BA",
+      "interpretation": "Find book expenditure and provide request when received.",
+      "excerpt": "I don't know. I can find out. I have not received a quest a request from Quality of Life as of yet. I know they're going to submit one. As soon as I do, I can provide it. I I would to to the BA. I would just recommend speaking to corp counsel. We"
+    },
+    {
+      "id": "E015",
+      "kind": "follow_up",
+      "start_segment": 644,
+      "end_segment": 647,
+      "timestamp": "01:19:57",
+      "respondent": "finance_BA",
+      "interpretation": "Update/send current rank counts.",
+      "excerpt": "so yeah the budget workbook right um we I mean we can update the column K that's what you're referring to the I'm not sure what the column it's just justification comments yes yes we can update that yeah the numbers there but that is that that was the current number as of June 30th so we could put the current number as of August 6th, but it's going to be outdated as of tomorrow. So, sure, if if that's what you like, we can we can send you that information."
+    },
+    {
+      "id": "E016",
+      "kind": "uncertainty_explicit",
+      "start_segment": 11,
+      "end_segment": 11,
+      "timestamp": "00:01:25",
+      "respondent": "PS",
+      "interpretation": "Not quite sure why litigation is holding up the grant.",
+      "excerpt": "litigation on between the state and the federal grant program whatever reason I'm not quite sure um but we will be as"
+    },
+    {
+      "id": "E017",
+      "kind": "uncertainty_explicit",
+      "start_segment": 95,
+      "end_segment": 97,
+      "timestamp": "00:12:14",
+      "respondent": "PS",
+      "interpretation": "Does not know why officers were congregating; facts still needed.",
+      "excerpt": "Thank you. Um, I will address with the with the chief about talking to the officers about congregating together. Uh, I I don't you know, I'm just going by what you're saying, so I don't know why they were together. So, I'm not going to point fingers yet until I find out the facts. And that is the reason I took photo and video because I could not figure out why you"
+    },
+    {
+      "id": "E018",
+      "kind": "uncertainty_explicit",
+      "start_segment": 147,
+      "end_segment": 148,
+      "timestamp": "00:18:35",
+      "respondent": "PS",
+      "interpretation": "Does not know why federal grant guidance changed.",
+      "excerpt": "are changes, there's been a a dramatic change as to the use of not only the YASI grant, but other grants in general um with this administration. Why? I don't know. But there again, it's it's constant litigation back and forth."
+    },
+    {
+      "id": "E019",
+      "kind": "uncertainty_explicit",
+      "start_segment": 258,
+      "end_segment": 258,
+      "timestamp": "00:31:58",
+      "respondent": "PS",
+      "interpretation": "Does not know whether fiscal analyst is the correct title.",
+      "excerpt": "don't I don't know whether that that is her correct title, but that's the title that she has. That's the civil service title. Granted."
+    },
+    {
+      "id": "E020",
+      "kind": "uncertainty_explicit",
+      "start_segment": 271,
+      "end_segment": 272,
+      "timestamp": "00:33:41",
+      "respondent": "PS_then_BA",
+      "interpretation": "I cannot answer that question, followed by vehicle audit answer from administration; speaker boundary uncertain.",
+      "excerpt": "question or DPW that question for I I can't answer that question. Um, Director Levy and DPW is conducting the vehicle audit for the whole city. So, it includes public safety, but other divisions, departments as well."
+    },
+    {
+      "id": "E021",
+      "kind": "uncertainty_explicit",
+      "start_segment": 389,
+      "end_segment": 392,
+      "timestamp": "00:48:28",
+      "respondent": "PS",
+      "interpretation": "Mistakes skip tracer for software, corrects to position, cannot explain without checking.",
+      "excerpt": "Just one moment. I know it's a software that the quality of life unit um unit uses. I'll have to get back to you when I discuss this with the municipal prosecutor. Um, I do believe that it is used to like as an intelligence database. I will get back to you on that. Oh, it's an actual position. I'm sorry. I'm I'll have to get back to you on that."
+    },
+    {
+      "id": "E022",
+      "kind": "uncertainty_explicit",
+      "start_segment": 449,
+      "end_segment": 449,
+      "timestamp": "00:56:19",
+      "respondent": "PS",
+      "interpretation": "Unable to say whether Quality of Life has open encumbrances.",
+      "excerpt": "I am unable to answer whether we have open encumbrances. The department of finance will answer that."
+    },
+    {
+      "id": "E023",
+      "kind": "uncertainty_explicit",
+      "start_segment": 490,
+      "end_segment": 495,
+      "timestamp": "01:00:50",
+      "respondent": "PS",
+      "interpretation": "Unsure whether cost shifted to or from capital; will check.",
+      "excerpt": "What was shifted over the new 911 system was purchased on a capital lease. Believe that was hitting our line item in the previous budget and then it got shifted to a capital line item. It's being shifted to a capital line item, not from. Oh, no. It says from. So, it was previously paid for under capital. There was a capital lease for the new 911 system. The radio infrastructure. I'll check on if we shifted it to or from. My understanding was it went to capital, but uh we'll check on it."
+    },
+    {
+      "id": "E024",
+      "kind": "uncertainty_explicit",
+      "start_segment": 580,
+      "end_segment": 580,
+      "timestamp": "01:12:03",
+      "respondent": "PS",
+      "interpretation": "Newark deputy count could be five/six working or eight on payroll.",
+      "excerpt": "Uh, anywhere from five to six. Uh, know there's a few that are on retired, so they might be on the payroll. There might be eight, but I think maybe five or six that are working."
+    },
+    {
+      "id": "E025",
+      "kind": "uncertainty_explicit",
+      "start_segment": 625,
+      "end_segment": 626,
+      "timestamp": "01:17:27",
+      "respondent": "PS",
+      "interpretation": "Does not know the superior-officer share of overtime before giving estimates.",
+      "excerpt": "Uh yeah. I I don't I don't know. The last time I I came before you, we're spending about $1.6 $6 million right now, even close to $2 million, which I could save, but we promote lieutenants and sergeants and captains, but mainly the lieutenants rank is where we're paying the overtime, a lot of overtime."
+    },
+    {
+      "id": "E026",
+      "kind": "uncertainty_hedge",
+      "start_segment": 3,
+      "end_segment": 3,
+      "timestamp": "00:00:20",
+      "respondent": "PS",
+      "interpretation": "I believe the original grant was $312,000.",
+      "excerpt": "grant award, I believe was $312,000, has been upgraded to $1.5 million based"
+    },
+    {
+      "id": "E027",
+      "kind": "uncertainty_hedge",
+      "start_segment": 44,
+      "end_segment": 45,
+      "timestamp": "00:05:37",
+      "respondent": "PS",
+      "interpretation": "Qualification cycle: three months, then six months/chief consultation.",
+      "excerpt": "So, our present numbers, which are around 750 some odd officers, um it it takes virtually, I would say, three three months, chief, six months to go through the entire first cycle. And by the time they finished the first cycle, they're ready to start the second cycle."
+    },
+    {
+      "id": "E028",
+      "kind": "uncertainty_hedge",
+      "start_segment": 102,
+      "end_segment": 106,
+      "timestamp": "00:13:02",
+      "respondent": "PS",
+      "interpretation": "I do not think so / I believe Newark salary is higher.",
+      "excerpt": "Than than New York. Yeah. Uh I don't think so. Yeah. No, I I spent a long time in NORC. That's the reason I'm asking you. No, I don't think so. I think you got bad information. So, I'm going to share the research we have done and then just it would be great if you can get back to us on that. Yeah, if you send me that and I'll definitely uh but I I believe that uh NORC is higher paid than Jersey City. Uh I believe even the start pay is higher. I believe there's more steps in Jersey City, but I will get to the use information and I would show you and Jersey City."
+    },
+    {
+      "id": "E029",
+      "kind": "uncertainty_hedge",
+      "start_segment": 222,
+      "end_segment": 223,
+      "timestamp": "00:27:14",
+      "respondent": "PS",
+      "interpretation": "Might miss a county in the list.",
+      "excerpt": "Hudson, Union, Essex, Morris. um might miss it. Middle Sex U and that that basically what it is if you recall there was a report that was authored several years"
+    },
+    {
+      "id": "E030",
+      "kind": "uncertainty_hedge",
+      "start_segment": 232,
+      "end_segment": 232,
+      "timestamp": "00:28:32",
+      "respondent": "PS",
+      "interpretation": "I want to say close to $24 million.",
+      "excerpt": "more funding. There's approximately, I want to say, close to $24 million that comes in to pay for programs to that"
+    },
+    {
+      "id": "E031",
+      "kind": "uncertainty_hedge",
+      "start_segment": 236,
+      "end_segment": 236,
+      "timestamp": "00:29:04",
+      "respondent": "PS",
+      "interpretation": "Meeting date: I believe August 21.",
+      "excerpt": "meet once a year to go through those projects, which will be coming up in my case on, I believe it's August 21st. Uh, we vet the projects. If they fit into"
+    },
+    {
+      "id": "E032",
+      "kind": "uncertainty_hedge",
+      "start_segment": 309,
+      "end_segment": 310,
+      "timestamp": "00:38:35",
+      "respondent": "PS",
+      "interpretation": "To my knowledge, uniform spending or encumbrance exceeded 100.",
+      "excerpt": "on they're being replaced when they're worn. So, it's actually a reduction. We we spent more in 2025 on line 215. To my knowledge, we spent over 100 or we encumbered over 100."
+    },
+    {
+      "id": "E033",
+      "kind": "uncertainty_hedge",
+      "start_segment": 482,
+      "end_segment": 482,
+      "timestamp": "01:00:08",
+      "respondent": "PS",
+      "interpretation": "I believe the contract list was sent.",
+      "excerpt": "We do have that. I believe that was sent over. Okay. Thank you."
+    },
+    {
+      "id": "E034",
+      "kind": "uncertainty_hedge",
+      "start_segment": 503,
+      "end_segment": 503,
+      "timestamp": "01:02:08",
+      "respondent": "PS",
+      "interpretation": "I believe, when recalling departing ranks.",
+      "excerpt": "I believe it was uh two deputy chiefs or lieutenants uh and the rest were police officers."
+    },
+    {
+      "id": "E035",
+      "kind": "uncertainty_hedge",
+      "start_segment": 522,
+      "end_segment": 522,
+      "timestamp": "01:04:30",
+      "respondent": "PS",
+      "interpretation": "I believe the former deputy office was on Marian.",
+      "excerpt": "up on top of a firehouse I believe on Marian. Uh it was probably a deplorable room they were working out of for an"
+    },
+    {
+      "id": "E036",
+      "kind": "uncertainty_hedge",
+      "start_segment": 713,
+      "end_segment": 713,
+      "timestamp": "01:29:04",
+      "respondent": "PS",
+      "interpretation": "I believe annual PPE contract estimate was $1.5 million.",
+      "excerpt": "It was put out to bid. Uh I believe we approximated $1.5 million for a year."
+    },
+    {
+      "id": "E037",
+      "kind": "certainty_explicit",
+      "start_segment": 18,
+      "end_segment": 18,
+      "timestamp": "00:02:18",
+      "respondent": "PS",
+      "interpretation": "I am quite sure training can be paid through the grant.",
+      "excerpt": "Director Ambrose has certain type of training he wants to initiate. I'm quite sure we'll be able to pay for that through the the grant."
+    },
+    {
+      "id": "E038",
+      "kind": "certainty_explicit",
+      "start_segment": 215,
+      "end_segment": 217,
+      "timestamp": "00:26:35",
+      "respondent": "PS",
+      "interpretation": "Repeatedly affirms full compliance and no information sharing.",
+      "excerpt": "mayor's executive orders in 2017 and 2026, are in full compliance with those orders. You, sorry, we are in full compliance. We're in full compliance with those orders. We are not sharing any information."
+    },
+    {
+      "id": "E039",
+      "kind": "certainty_explicit",
+      "start_segment": 307,
+      "end_segment": 307,
+      "timestamp": "00:38:20",
+      "respondent": "PS",
+      "interpretation": "We definitely have to provide crossing-guard uniforms; contractual.",
+      "excerpt": "Traditionally, we audit uniforms annually. We definitely have to do them for crossing guards as contractual."
+    },
+    {
+      "id": "E040",
+      "kind": "certainty_explicit",
+      "start_segment": 632,
+      "end_segment": 632,
+      "timestamp": "01:18:27",
+      "respondent": "PS",
+      "interpretation": "Definitely need lieutenants; budgeted openings can save overtime.",
+      "excerpt": "And maybe even more uh for the other units. So we definitely and we have budgeted openings for that so we could save overtime on that."
+    },
+    {
+      "id": "E041",
+      "kind": "certainty_explicit",
+      "start_segment": 732,
+      "end_segment": 733,
+      "timestamp": "01:31:20",
+      "respondent": "PS",
+      "interpretation": "Emphatic never denial of a stated firehouse-closure plan.",
+      "excerpt": "quoted me. I I never before this body said that I was we were looking to close the administration or myself was looking to close a fire department. Today was the first time that I said if we had to increase the police budget then I would have to look to do some uh closings of preets. But never did we say a firehouse."
+    }
+  ]
+}

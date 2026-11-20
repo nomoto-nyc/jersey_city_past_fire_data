@@ -1,0 +1,6 @@
+area,population,calls,unit_responses,fire_calls,non_emergency_calls,false_alarm_calls,calls_per_1k,fire_calls_per_1k,false_alarms_per_1k,pct_non_emergency
+1st Battalion,72568,2407,9308,239,912,811,33.2,3.29,11.2,37.9
+2nd Battalion,84302,3058,10703,249,1027,872,36.3,2.95,10.3,33.6
+3rd Battalion,64524,2084,7128,196,801,676,32.3,3.04,10.5,38.4
+4th Battalion,72684,3115,11416,305,1260,1120,42.9,4.2,15.4,40.4
+Unassigned,,113,420,15,18,10,,,,15.9

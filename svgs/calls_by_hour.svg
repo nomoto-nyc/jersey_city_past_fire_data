@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" width="960" height="520" font-family="Inter, Helvetica, Arial, sans-serif" role="img" aria-label="Jersey City Fire calls by hour of day">
+<rect width="960" height="520" fill="#FFFFFF"/>
+<text x="72" y="40" font-size="22" font-weight="600" fill="#1A1A1A">Jersey City Fire calls by hour of day</text>
+<text x="72" y="66" font-size="14" fill="#6B6B6B">10,777 NERIS incidents, Jan 31 – Sep 16, 2026 · call_create_eastern</text>
+<line x1="72" x2="936" y1="456.0" y2="456.0" stroke="#BDBDBD" stroke-width="1"/>
+<text x="62" y="460.0" font-size="12" fill="#6B6B6B" text-anchor="end">0</text>
+<line x1="72" x2="936" y1="404.6" y2="404.6" stroke="#E6E6E6" stroke-width="1"/>
+<text x="62" y="408.6" font-size="12" fill="#6B6B6B" text-anchor="end">100</text>
+<line x1="72" x2="936" y1="353.1" y2="353.1" stroke="#E6E6E6" stroke-width="1"/>
+<text x="62" y="357.1" font-size="12" fill="#6B6B6B" text-anchor="end">200</text>
+<line x1="72" x2="936" y1="301.7" y2="301.7" stroke="#E6E6E6" stroke-width="1"/>
+<text x="62" y="305.7" font-size="12" fill="#6B6B6B" text-anchor="end">300</text>
+<line x1="72" x2="936" y1="250.3" y2="250.3" stroke="#E6E6E6" stroke-width="1"/>
+<text x="62" y="254.3" font-size="12" fill="#6B6B6B" text-anchor="end">400</text>
+<line x1="72" x2="936" y1="198.9" y2="198.9" stroke="#E6E6E6" stroke-width="1"/>
+<text x="62" y="202.9" font-size="12" fill="#6B6B6B" text-anchor="end">500</text>
+<line x1="72" x2="936" y1="147.4" y2="147.4" stroke="#E6E6E6" stroke-width="1"/>
+<text x="62" y="151.4" font-size="12" fill="#6B6B6B" text-anchor="end">600</text>
+<line x1="72" x2="936" y1="96.0" y2="96.0" stroke="#E6E6E6" stroke-width="1"/>
+<text x="62" y="100.0" font-size="12" fill="#6B6B6B" text-anchor="end">700</text>
+<path d="M73.0,456.0V370.5Q73.0,366.5 77.0,366.5H103.0Q107.0,366.5 107.0,370.5V456.0Z" fill="#E03E1A"><title>12a–1a: 174 calls (1.6%)</title></path>
+<text x="90.0" y="476" font-size="12" fill="#6B6B6B" text-anchor="middle">12a</text>
+<text x="90.0" y="358.5" font-size="12" font-weight="600" fill="#1A1A1A" text-anchor="middle">174</text>
+<path d="M109.0,456.0V357.1Q109.0,353.1 113.0,353.1H139.0Q143.0,353.1 143.0,357.1V456.0Z" fill="#E03E1A"><title>1a–2a: 200 calls (1.9%)</title></path>
+<path d="M145.0,456.0V330.9Q145.0,326.9 149.0,326.9H175.0Q179.0,326.9 179.0,330.9V456.0Z" fill="#E03E1A"><title>2a–3a: 251 calls (2.3%)</title></path>
+<path d="M181.0,456.0V278.5Q181.0,274.5 185.0,274.5H211.0Q215.0,274.5 215.0,278.5V456.0Z" fill="#E03E1A"><title>3a–4a: 353 calls (3.3%)</title></path>
+<text x="198.0" y="476" font-size="12" fill="#6B6B6B" text-anchor="middle">3a</text>
+<path d="M217.0,456.0V229.1Q217.0,225.1 221.0,225.1H247.0Q251.0,225.1 251.0,229.1V456.0Z" fill="#E03E1A"><title>4a–5a: 449 calls (4.2%)</title></path>
+<path d="M253.0,456.0V157.6Q253.0,153.6 257.0,153.6H283.0Q287.0,153.6 287.0,157.6V456.0Z" fill="#E03E1A"><title>5a–6a: 588 calls (5.5%)</title></path>
+<path d="M289.0,456.0V144.2Q289.0,140.2 293.0,140.2H319.0Q323.0,140.2 323.0,144.2V456.0Z" fill="#E03E1A"><title>6a–7a: 614 calls (5.7%)</title></path>
+<text x="306.0" y="476" font-size="12" fill="#6B6B6B" text-anchor="middle">6a</text>
+<text x="306.0" y="132.2" font-size="12" font-weight="600" fill="#1A1A1A" text-anchor="middle">614</text>
+<path d="M325.0,456.0V157.6Q325.0,153.6 329.0,153.6H355.0Q359.0,153.6 359.0,157.6V456.0Z" fill="#E03E1A"><title>7a–8a: 588 calls (5.5%)</title></path>
+<path d="M361.0,456.0V149.9Q361.0,145.9 365.0,145.9H391.0Q395.0,145.9 395.0,149.9V456.0Z" fill="#E03E1A"><title>8a–9a: 603 calls (5.6%)</title></path>
+<path d="M397.0,456.0V154.5Q397.0,150.5 401.0,150.5H427.0Q431.0,150.5 431.0,154.5V456.0Z" fill="#E03E1A"><title>9a–10a: 594 calls (5.5%)</title></path>
+<text x="414.0" y="476" font-size="12" fill="#6B6B6B" text-anchor="middle">9a</text>
+<path d="M433.0,456.0V144.7Q433.0,140.7 437.0,140.7H463.0Q467.0,140.7 467.0,144.7V456.0Z" fill="#E03E1A"><title>10a–11a: 613 calls (5.7%)</title></path>
+<path d="M469.0,456.0V146.3Q469.0,142.3 473.0,142.3H499.0Q503.0,142.3 503.0,146.3V456.0Z" fill="#E03E1A"><title>11a–12p: 610 calls (5.7%)</title></path>
+<path d="M505.0,456.0V146.3Q505.0,142.3 509.0,142.3H535.0Q539.0,142.3 539.0,146.3V456.0Z" fill="#E03E1A"><title>12p–1p: 610 calls (5.7%)</title></path>
+<text x="522.0" y="476" font-size="12" fill="#6B6B6B" text-anchor="middle">12p</text>
+<path d="M541.0,456.0V162.7Q541.0,158.7 545.0,158.7H571.0Q575.0,158.7 575.0,162.7V456.0Z" fill="#E03E1A"><title>1p–2p: 578 calls (5.4%)</title></path>
+<path d="M577.0,456.0V144.7Q577.0,140.7 581.0,140.7H607.0Q611.0,140.7 611.0,144.7V456.0Z" fill="#E03E1A"><title>2p–3p: 613 calls (5.7%)</title></path>
+<path d="M613.0,456.0V144.7Q613.0,140.7 617.0,140.7H643.0Q647.0,140.7 647.0,144.7V456.0Z" fill="#E03E1A"><title>3p–4p: 613 calls (5.7%)</title></path>
+<text x="630.0" y="476" font-size="12" fill="#6B6B6B" text-anchor="middle">3p</text>
+<path d="M649.0,456.0V159.1Q649.0,155.1 653.0,155.1H679.0Q683.0,155.1 683.0,159.1V456.0Z" fill="#E03E1A"><title>4p–5p: 585 calls (5.4%)</title></path>
+<path d="M685.0,456.0V186.9Q685.0,182.9 689.0,182.9H715.0Q719.0,182.9 719.0,186.9V456.0Z" fill="#E03E1A"><title>5p–6p: 531 calls (4.9%)</title></path>
+<path d="M721.0,456.0V252.7Q721.0,248.7 725.0,248.7H751.0Q755.0,248.7 755.0,252.7V456.0Z" fill="#E03E1A"><title>6p–7p: 403 calls (3.7%)</title></path>
+<text x="738.0" y="476" font-size="12" fill="#6B6B6B" text-anchor="middle">6p</text>
+<path d="M757.0,456.0V279.0Q757.0,275.0 761.0,275.0H787.0Q791.0,275.0 791.0,279.0V456.0Z" fill="#E03E1A"><title>7p–8p: 352 calls (3.3%)</title></path>
+<path d="M793.0,456.0V321.7Q793.0,317.7 797.0,317.7H823.0Q827.0,317.7 827.0,321.7V456.0Z" fill="#E03E1A"><title>8p–9p: 269 calls (2.5%)</title></path>
+<path d="M829.0,456.0V344.8Q829.0,340.8 833.0,340.8H859.0Q863.0,340.8 863.0,344.8V456.0Z" fill="#E03E1A"><title>9p–10p: 224 calls (2.1%)</title></path>
+<text x="846.0" y="476" font-size="12" fill="#6B6B6B" text-anchor="middle">9p</text>
+<path d="M865.0,456.0V363.8Q865.0,359.8 869.0,359.8H895.0Q899.0,359.8 899.0,363.8V456.0Z" fill="#E03E1A"><title>10p–11p: 187 calls (1.7%)</title></path>
+<path d="M901.0,456.0V370.0Q901.0,366.0 905.0,366.0H931.0Q935.0,366.0 935.0,370.0V456.0Z" fill="#E03E1A"><title>11p–12a: 175 calls (1.6%)</title></path>
+<text x="504.0" y="504" font-size="12" fill="#6B6B6B" text-anchor="middle">Hour call was created (Eastern)</text>
+</svg>
